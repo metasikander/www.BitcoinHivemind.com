@@ -1,4 +1,4 @@
-www.truthcoin.info
+www.BitcoinHivemind.com
 =================
 
-Truthcoin site/blog
+Hivemind site/blog
