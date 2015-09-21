@@ -61,13 +61,15 @@ This is the most severe failure case, and deserves a bit of discussion.
 
 While this project aspires to be the simplest "Bitcoin 2.0 project" (consisting of Bitcoin with new dimensions [Branches, Votecoins, Decisions, Markets, and Shares] and new message types). Nonetheless, Bitcoin had several severe bugs (enabling counterfeiting or outright theft) which were only discovered after years of real-world testing. It is likely that this project will have a correspondingly higher number of bugs, discovered over a correspondingly longer period of time (several years).
 
+A greater concern is the onboarding of new developer-talent. If new developers do not understand Hivemind and its pieces, they will make mistakes in maintaining and upgrading it. I have attempted to make the documentation extensive for this reason, but it alone is likely to be insufficient.
+
 
 
 
 
 ### Project Inspires Widespread Legality/Social-Acceptance of Prediction Markets
 
-While "software" in general continues to improve, individual pieces of software die off quickly. (Similar to biological evolution: while a species may become more adapted to its environment over time, each member of the species dies very quickly). While prediction market software can only continue to improve, this particular piece of software can likely be out-competed by any organization which would legally bind itself to provide accurate data (the so-called "trusted third party"). All [value-storers](http://www.truthcoin.info/blog/limits-of-blockchain/) have historically been targets for theft, fraud, racketeering, and taxation, but some value-storers are targeted more than others. Bitcoin is likely to outlast the entire financial-services industry (which is rife with middlemen of all kinds), where as Truthcoin may not be able to compete with a prediction-market internet-business operating in a pro-business jurisdiction.
+While "software" in general continues to improve, individual pieces of software die off quickly. (Similar to biological evolution: while a species may become more adapted to its environment over time, each member of the species dies very quickly). While prediction market software can only continue to improve, this particular piece of software can likely be out-competed by any organization which would legally bind itself to provide accurate data (the so-called "trusted third party"). All [value-storers](http://www.truthcoin.info/blog/limits-of-blockchain/) have historically been targets for theft, fraud, racketeering, and taxation, but some value-storers are targeted more than others. Bitcoin is likely to outlast the entire financial-services industry (which is rife with middlemen of all kinds), where as Hivemind may not be able to compete with a prediction-market internet-business operating in a pro-business jurisdiction.
 
 
 
@@ -136,13 +138,13 @@ If only popular markets were authored, that would seem to be "mission accomplish
 
 ### Scalability
 
-If scalability is neither a problem [in Bitcoin](https://en.bitcoin.it/wiki/Scalability) nor in [the more-ambitious Namecoin](https://wiki.namecoin.info/index.php?title=Scalability), I have yet to discover a reason why Truthcoin would be especially subject to scalability problems. Unfortunately this is kind of a "big if" as Bitcoin appears to be having some trouble with scalability.
+If scalability is neither a problem [in Bitcoin](https://en.bitcoin.it/wiki/Scalability) nor in [the more-ambitious Namecoin](https://wiki.namecoin.info/index.php?title=Scalability), I have yet to discover a reason why Hivemind would be especially subject to scalability problems. Unfortunately this is kind of a "big if" as Bitcoin appears to be having some trouble with scalability.
 
 The vote-matrix (only assembled once per Tau of each Branch) is Voter by Decisions, but both are economically constrained: Decisions are capped, and within the cap Decisions are restrained by increasing fees, and Voters have a diminishing return for constant work (this strongly discourages dust-voters). Each Branch creates a new set of Voters, and a new Vote-matrix...this scales linearly.
 
 Moreover, Vote-Matrices, their Decisions, and their Markets will "fall out" of the blockchain as they are resolved and sold off. Only the currently used data structures need to be available to anyone.
 
-Moreover, Truthcoin is different from Bitcoin in that, even with only a few hundred (rich, informed) users, the project could still have a tremendous impact on society. Most of the benefits lie in the cheap *option* to participate, which does not need to be exercised, and in simply displaying the blockchain's data. Likely, TC will have fewer users than Bitcoin. People purchase several times a day, but very rarely does any individual bet/invest/trade as often.
+Moreover, Hivemind is different from Bitcoin in that, even with only a few hundred (rich, informed) users, the project could still have a tremendous impact on society. Most of the benefits lie in the cheap *option* to participate, which does not need to be exercised, and in simply displaying the blockchain's data. Likely, TC will have fewer users than Bitcoin. People purchase several times a day, but very rarely does any individual bet/invest/trade as often.
 
 Whatever the case may be, clever people are thinking up new scalability solutions all the time.
 

@@ -9,7 +9,7 @@ Highlights
 
 <br>
 
->"Truthcoin may be the most important invention since Bitcoin."  
+>"Hivemind is the most important invention since Bitcoin."  
 
 \- [**Roger Ver**](https://rogerver.com/), Bitcoin Evangelist, seed investor: [Blockchain.info](https://blockchain.info/), [The Bitcoin Foundation](http://bitcoinfoundation.org/), [Ripple](https://ripple.com/), ..., investor: [BitPay](https://bitpay.com/), [ShapeShift](https://shapeshift.io/), [Purse.io](https://purse.io/), ...  
 
@@ -25,6 +25,7 @@ Highlights
 
 \-[**Andrew Poelstra**](https://www.wpsoftware.net/andrew/), author of [A Treatise on Altcoins](https://download.wpsoftware.net/bitcoin/alts.pdf), [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf), co-author of [the Sidechains Whitepaper](http://www.blockstream.com/sidechains.pdf)
 
+(Recall that Hivemind was previously named Truthcoin)
 
 In The Media
 --------------
