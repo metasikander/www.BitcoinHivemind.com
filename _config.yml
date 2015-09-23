@@ -1,8 +1,7 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 blogurl: "/blog" # Blog subpath
-url: "http://www.truthcoin.info" # the base hostname & protocol for your site
-title: "Truthcoin: Making Cheap Talk Expensive"
-#title: "Truthcoin: Nullius in Verba"
+url: "http://www.bitcoinhivemind.com" # the base hostname & protocol for your site
+title: "The Bitcoin Hivemind"
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
