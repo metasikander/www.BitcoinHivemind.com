@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 ---
 
 
-[Linkable/Pullable GitHub Version](https://github.com/truthcoin/www.truthcoin.info/blob/gh-pages/faq/index.md)
+[Linkable/Pullable GitHub Version](https://github.com/BitcoinHivemind/www.bitcoinhivemind.com/blob/gh-pages/faq/index.md)
 
 Note: this FAQ is a **literal** FAQ. I did not write it to be an organized, readable document. The questions which are here, are here because they were asked very frequently. I copied each question here (so that it might be found with ctrl + f or search engine) and wrote up a reference answer.
 
@@ -14,38 +14,33 @@ If your question is missing, please email it to me or use a pull request (link a
 
 ### What's going on?
 
-Truthcoin allows users to use their Bitcoin to create and participate in [markets for event derivatives ("prediction markets")](https://en.wikipedia.org/wiki/Prediction_market). Like Bitcoin, Truthcoin is a protocol, a set of P2P action-response relationships (like Bluetooth, spoken English, or the rules to Texas hold 'em) for individuals to either use or ignore.
+Hivemind allows users to use their Bitcoin to create and participate in [markets for event derivatives ("prediction markets")](https://en.wikipedia.org/wiki/Prediction_market). Like Bitcoin, Hivemind is a protocol, a set of P2P action-response relationships (like Bluetooth, spoken English, or the rules to Texas hold 'em) for individuals to either use or ignore.
 
-Although substantially more complex, Truthcoin offers correspondingly substantial benefits, having potentially world-changing implications for science, taxation, corporate governance and politics.
+Although substantially more complex, Hivemind offers correspondingly substantial benefits, having potentially world-changing implications for science, taxation, corporate governance and politics.
 
-Truthcoin has users, just like Bitcoin, but it also has "employees". These employees work for "Branches" (each Branch resembles a new InTrade), and vote on "Decisions" (election outcomes or price-feeds), which resolve "Markets" (the trading-arenas defined by one or more Decision). Users are free to create any Decisions or Markets they like, although they compete economically for scarce "Decision slots".
+Hivemind has users, just like Bitcoin, but it also has "employees". These employees work for "Branches" (each Branch resembles a new InTrade), and vote on "Decisions" (election outcomes or price-feeds), which resolve "Markets" (the trading-arenas defined by one or more Decision). Users are free to create any Decisions or Markets they like, although they compete economically for scarce "Decision slots".
 
-### What makes Truthcoin different?
+### What makes Hivemind different?
 
-(In the author's opinion) Truthcoin is the **only** Bitcoin 2.0 project (defined as a blockchain for e-payments + something else) which is:
+(In the author's opinion) Hivemind is the **only** Bitcoin 2.0 project (defined as a blockchain for e-payments + something else) which is:
 
-* **Free**: To use Truthcoin's advanced features, you need to own Bitcoin. That's it!
+* **Free**: To use Hivemind's advanced features, you need to own Bitcoin. That's it!
 
-* **Authentic**: Truthcoin, unlike all other 2.0 projects, proceeds as though its creators actually believe in it. We pay for *everything* upfront (design, development, review, testing), with no guarantee that the project will even make it through all of these (risky) phases without encountering a fatal problem. As a result of this, you know that we literally *can't* be dishonest with you (we have nothing to gain either way). Other projects hype up a "Order now, while supplies last!" message, followed by a shakedown for money! Such an approach, while admittedly effective at generating a community (with skin-in-the-game), creates a huge problem: even otherwise honest project-directors face a temptation to lie to the public (especially "greater good" lies powered by groupthink and wishful-thinking), particularly about obscure long-run problems. With Truthcoin you don't even need to be emotionally invested.
+* **Authentic**: Hivemind, unlike all other 2.0 projects, proceeds as though its creators actually believe in it. We pay for *everything* upfront (design, development, review, testing), with no guarantee that the project will even make it through all of these (risky) phases without encountering a fatal problem. As a result of this, you know that we literally *can't* be dishonest with you (we have nothing to gain either way). Other projects hype up a "Order now, while supplies last!" message, followed by a shakedown for money! Such an approach, while admittedly effective at generating a community (with skin-in-the-game), creates a huge problem: even otherwise honest project-directors face a temptation to lie to the public (especially "greater good" lies powered by groupthink and wishful-thinking), particularly about obscure long-run problems. With Hivemind you don't even need to be emotionally invested.
 
-* **Reputable**: Truthcoin was designed by a Yale Statistician with degrees in the blockchain-relevant fields of econ, psychology, and mathematics, who has been passionate about prediction markets since long before Bitcoin was created. Truthcoin was reviewed (favorably) by Andrew Poelstra, sidechains-co-author and skeptical author of widely-circulated technical papers on cryptosystem stability. Gregory Maxwell has been aware of the project for months, Peter Todd is actively reviewing it. Unlike 100% of all Bitcoin 2.0 projects, there have (so far) been no standing complaints from these elite-skeptics. Roger Ver, who has famously invested-in and donated-to some of the most promising organizations and experiments in the Bitcoin space (from original Ripple, to BitPay, to Purse.io), and ignored many others, has endorsed this project financially.
+* **Reputable**: Hivemind was designed by a Yale Statistician with degrees in the blockchain-relevant fields of econ, psychology, and mathematics, who has been passionate about prediction markets since long before Bitcoin was created. Hivemind was reviewed (favorably) by Andrew Poelstra, sidechains-co-author and skeptical author of widely-circulated technical papers on cryptosystem stability. Gregory Maxwell has been aware of the project for months, Peter Todd is actively reviewing it. Unlike 100% of all Bitcoin 2.0 projects, there have (so far) been no standing complaints from these elite-skeptics. Roger Ver, who has famously invested-in and donated-to some of the most promising organizations and experiments in the Bitcoin space (from original Ripple, to BitPay, to Purse.io), and ignored many others, has endorsed this project financially.
 
-* **Legitimate**: Satoshi designed Bitcoin to be resistant to coercion. He noticed that [value-storage was an enterprise which allowed bankers, politicians, and lawyers to extract (what I call) "ledger rents"](http://www.truthcoin.info/blog/limits-of-blockchain/), and that competition (e-gold, Liberty Dollar, etc.) failed to erase this anticompetitive rent. But he *also* noticed that the diffuse and regenerative bittorrent (gnutella, et al) *were* able to compete against the outdated film and record industry; hence a new e-cash which was P2P. Truthcoin, similarly, reflects on the tragic fate of InTrade.com and the (neutered) ForesightExchange and Iowa Election Markets.  Truthcoin's second coin type, the VoteCoins, take aim at [a second type of "ledger rent"](http://www.overcomingbias.com/2015/05/elite-evaluator-rents.html). Other 2.0 projects follow nothing like any of this logic at all, many have simply [Pavloved](https://en.wikipedia.org/wiki/Classical_conditioning) the words "decentralization" and "good", for no reason.
+* **Legitimate**: Satoshi designed Bitcoin to be resistant to coercion. He noticed that [value-storage was an enterprise which allowed bankers, politicians, and lawyers to extract (what I call) "ledger rents"](http://www.bitcoinhivemind.com/blog/limits-of-blockchain/), and that competition (e-gold, Liberty Dollar, etc.) failed to erase this anticompetitive rent. But he *also* noticed that the diffuse and regenerative bittorrent (gnutella, et al) *were* able to compete against the outdated film and record industry; hence a new e-cash which was P2P. Hivemind, similarly, reflects on the tragic fate of InTrade.com and the (neutered) ForesightExchange and Iowa Election Markets.  Hivemind's second coin type, the VoteCoins, take aim at [a second type of "ledger rent"](http://www.overcomingbias.com/2015/05/elite-evaluator-rents.html). Other 2.0 projects follow nothing like any of this logic at all, many have simply [Pavloved](https://en.wikipedia.org/wiki/Classical_conditioning) the words "decentralization" and "good", for no reason.
 
-* **Useful**: Truthcoin already has "killer apps" of its own, [things which it can do that nothing else can](http://www.truthcoin.info/papers/3_PM_Applications.pdf). It solves a [real world problem of info-aggregation](http://www.truthcoin.info/presentations/info-problems.pdf), which is the problem that annoys you when you [1] watch journalists lie on television, [2] have to deal with obviously dishonest politicians rising through an obviously-dysfunctional "democratic" process, [3] get beaten down by office politics at work, or [4] participate in any serious argument with anyone. The fiber optic cable of the 90's gave the global community a "nervous system", called the internet, but despite advances in filesharing ("memory"), and search / auto-complete ("pre-processing"), we don't yet have a "central" nervous system to advise our decisions, because info-aggregation does not scale without markets, and internet-markets have never before been possible.
+* **Useful**: Hivemind already has "killer apps" of its own, [things which it can do that nothing else can](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf). It solves a [real world problem of info-aggregation](http://www.bitcoinhivemind.com/presentations/info-problems.pdf), which is the problem that annoys you when you [1] watch journalists lie on television, [2] have to deal with obviously dishonest politicians rising through an obviously-dysfunctional "democratic" process, [3] get beaten down by office politics at work, or [4] participate in any serious argument with anyone. The fiber optic cable of the 90's gave the global community a "nervous system", called the internet, but despite advances in filesharing ("memory"), and search / auto-complete ("pre-processing"), we don't yet have a "central" nervous system to advise our decisions, because info-aggregation does not scale without markets, and internet-markets have never before been possible.
 
 
-### Why did you name it "Truthcoin"? Doesn't that make it sound like an altcoin?
-
-Back when I choose the name (in 2013), that was the naming convention: Namecoin, Peercoin, and Freicoin all existed (before sidechains were formalized, I conceived the project as functionally comparable to Namecoin). Back then, all of the new coins (even Litecoin) had some logical purpose and intended function (however experimental), so it wasn't possible to confuse a legitimate project with a copycoin. Of course, as the Bitcoin price soared, it invited a tidal wave of endless "coin"-suffixed projects ("scams") which are today known as the Altcoins.
-
-I haven't changed the name beacuse it does act as a kind of anti-spam filter, removing shallow or low-effort users. Such users are often more distracting than helpful.
 
 ### If this project is so much better than Ethereum, Bitshares, ..., then why haven't I heard of it?
 
-Firstly, I do not do any promotion / "active marketing". I feel that "talking" about Truthcoin goes against the spirit of the project: that talk should be ignored (in favor of action). I have more important work to do than to deal with the (socially dysfunctional, in my view) Bitcoin community.
+Firstly, I do not do any promotion / "active marketing". I feel that "talking" about Hivemind goes against the spirit of the project: that talk should be ignored (in favor of action). I have more important work to do than to deal with the (socially dysfunctional, in my view) Bitcoin community.
 
-Secondly, I don't need any money, or help from the general public. Those other projects don't already have funding from reputable investors, and so they need to have crowdsales. These crowdsales grant a large number of people "skin in the game", at which point they become slavishly devoted to promoting the project. My project requires no money, and uses Bitcoin (whether the Bitcoin community, or any other community, likes it or not). Once the Bitcoin community learns of Truthcoin (which might be a while, as they've been so overwhelmed with terrible ideas named "-coin"), and that it is free (does not require any other coins), I'm confident that they'll be promoting "their" new project as much as they promote Bitcoin. 
+Secondly, I don't need any money, or help from the general public. Those other projects don't already have funding from reputable investors, and so they need to have crowdsales. These crowdsales grant a large number of people "skin in the game", at which point they become slavishly devoted to promoting the project. My project requires no money, and uses Bitcoin (whether the Bitcoin community, or any other community, likes it or not). Once the Bitcoin community learns of Hivemind (which might be a while, as they've been so overwhelmed with terrible ideas named "-coin"), and that it is free (does not require any other coins), I'm confident that they'll be promoting "their" new project as much as they promote Bitcoin. 
 
 ### You really think this project is better than all of the other Bitcoin 2.0 projects?
 
@@ -59,7 +54,7 @@ While other projects employ multi-million-dollar budgets, only to struggle to me
 
 I understand why this question comes up (despite the fact that, as open source software, the motivation or even identity of the software-author is completely irrelevant). Given the frequent occurrence of scams in this community, even more skepticism than usual is warranted with even completely free projects.
 
-It is true that there **may** be an auction of the initial "VoteCoins", which might raise a nice amount of money for whoever administrates the auction (probably Roger). However, should one even occur, you are under no pressure to participate in this auction: VoteCoins are themselves not required to use Truthcoin (BTC will work just fine, VTC are used to "work" for Truthcoin), and I would imagine that many of those most excited about Truthcoin would never own any VoteCoins in their lives. The New York Stock Exchange (NYSE) is itself owned by Intercontinental Exchange, which is actually listed on the NYSE (as NYSE:ICE). Thousands of people trade in the NYSE every day without owning any shares of ICE, and millions of people around the world benefit from the operation of the NYSE without even being aware of ICE's existence.
+It is true that there **may** be an auction of the initial "VoteCoins", which might raise a nice amount of money for whoever administrates the auction (probably Roger). However, should one even occur, you are under no pressure to participate in this auction: VoteCoins are themselves not required to use Hivemind (BTC will work just fine, VTC are used to "work" for Hivemind), and I would imagine that many of those most excited about Hivemind would never own any VoteCoins in their lives. The New York Stock Exchange (NYSE) is itself owned by Intercontinental Exchange, which is actually listed on the NYSE (as NYSE:ICE). Thousands of people trade in the NYSE every day without owning any shares of ICE, and millions of people around the world benefit from the operation of the NYSE without even being aware of ICE's existence.
 
 Or, the VoteCoins could be privately owned and slowly leak onto the marketplace. It makes almost no difference to the user, just as the Walmart stock price has almost no effect on the individuals who shop at Walmart stores.
 
@@ -82,33 +77,33 @@ Perhaps Blockstream is evil, or biased (clearly, like everyone, they prefer thei
 
 ### Why would the miners secure this sidechain?
 
-From the Miner's point of view, their choice to secure Truthcoin results in more tx-fees (BTC fees) for them, at a cost of zero (once configured, merge-mining has marginal operating cost of zero). It is a no-brainer.
+From the Miner's point of view, their choice to secure Hivemind results in more tx-fees (BTC fees) for them, at a cost of zero (once configured, merge-mining has marginal operating cost of zero). It is a no-brainer.
 
-They are also unlikely to attack Truthcoin, for reasons similar (but not identical) to those motivating their non-attack of Bitcoin: a failed attack results in the destruction of the pool operator's buisiness, and a successful attack destroys the future stream of tx-fees for all merged-miners.
+They are also unlikely to attack Hivemind, for reasons similar (but not identical) to those motivating their non-attack of Bitcoin: a failed attack results in the destruction of the pool operator's buisiness, and a successful attack destroys the future stream of tx-fees for all merged-miners.
 
 ### How do you know that people wont claim an outcome was whatever will benefit them personally?
 
-(It would be best to consult [the whitepaper](http://www.truthcoin.info/papers/truthcoin-whitepaper.pdf) on this question, particularly the figures on pages 24-26 of Whitepaper 1.4).
+(It would be best to consult [the whitepaper](http://www.bitcoinhivemind.com/papers/hivemind-whitepaper.pdf) on this question, particularly the figures on pages 24-26 of Whitepaper 1.4).
 
 A parallel question would be, why wouldn't InTrade.com (a website which once provided USD prediction markets) simply steal their client's money? Why don't banks steal their client's money?
 
 The major reasons are that: [1] this would result in an overnight failure of their business, and [2] law enforcement would catch up with them (punishing the attacker for breach-of-contract, and possibly even reversing the stolen funds [if it's not too late]). 
 
-It is clear that all businesses must operate for the long run (think customer service departments, or "sending back a meal" at a restaurant), making reason [1] enough to keep these agents in line. However,[some businesses are uniquely vulnerable to short-term temptation because they not only "accept value" but they are also *custodians* of their customer's value](http://www.truthcoin.info/blog/limits-of-blockchain/), necessitating the extra enforcement implied by [2].
+It is clear that all businesses must operate for the long run (think customer service departments, or "sending back a meal" at a restaurant), making reason [1] enough to keep these agents in line. However,[some businesses are uniquely vulnerable to short-term temptation because they not only "accept value" but they are also *custodians* of their customer's value](http://www.bitcoinhivemind.com/blog/limits-of-blockchain/), necessitating the extra enforcement implied by [2].
 
 #### [1] Reputational Capital
 
-To mimic the value-added by beneficial voting-activity, Truthcoin has "Branches", which are analogous to corporations. Each would be like its own PM-business, generating profits (from their customer's trades) over the long run, and resolving each market as its event takes place.
+To mimic the value-added by beneficial voting-activity, Hivemind has "Branches", which are analogous to corporations. Each would be like its own PM-business, generating profits (from their customer's trades) over the long run, and resolving each market as its event takes place.
 
 Branch-owners are compelled to report on a (capped) number of questions called Decisions. This restriction on the supply of reporting allows Branches to [differentiate](http://en.wikipedia.org/wiki/Product_differentiation) and thereby own and capture the economic value produced by their good behavior. Through something called Branching, each Branch can **choose** to split into two daughter Branches. Economic incentives are such that differentiation is always possible / some monopolistic-rents are always extractable, yet there is flexibility to scale as needed (these details will be discussed in Whitepaper 1.4).
 
-It is a common misconception that the SVD-resolution algorithm is the main innovation behind Truthcoin. While important in its own right, it is this concept of a second "share-token" with owner-operators (laborers who must buy the coin to work, and who lose the coin if they misbehave), as well as the careful [operationalization](http://en.wikipedia.org/wiki/Operationalization) of all the economic costs and benefits of each agent, which drives the blockchain-logic. 
+It is a common misconception that the SVD-resolution algorithm is the main innovation behind Hivemind. While important in its own right, it is this concept of a second "share-token" with owner-operators (laborers who must buy the coin to work, and who lose the coin if they misbehave), as well as the careful [operationalization](http://en.wikipedia.org/wiki/Operationalization) of all the economic costs and benefits of each agent, which drives the blockchain-logic. 
 
 
 #### The SVD-Resolution Algorithm
 
 
-Many of the details of this algorithm are in [this presentation](http://www.truthcoin.info/presentations/truthcoin-outcomes.pdf) and [the whitepaper](http://www.truthcoin.info/papers/truthcoin-whitepaper.pdf).
+Many of the details of this algorithm are in [this presentation](http://www.bitcoinhivemind.com/presentations/hivemind-outcomes.pdf) and [the whitepaper](http://www.bitcoinhivemind.com/papers/hivemind-whitepaper.pdf).
 
 Try and break my [Resolution Demo](https://lyoshenka.ocpu.io/truthcoindemo/www/), and let me know what you find!
 
@@ -139,7 +134,7 @@ Prompts:
 Responses:
 
 1. Obviously, the Attack Profit here is defined by 3 inputs: the cash influx for attacking today (call this "Defect"), the stream of payments in the future for honest judges (call this "Conform"), and the discount rate used to reconcile the fact that these payments are taking place at different times (call this “r”). There are severe problems with all 3 inputs: ‘Defect’ can skyrocket unexpectedly as a market becomes popular, ‘Conform’ can collapse on news about the future of the protocol or judge-industry-competitiveness, and r will change with the Judge’s preferences (if a Judge wants to retire and leave the Judging industry, r can become infinite). This uncertainty means that it is practically impossible to guarantee today that a given Decision will have negative Attack Profit (ie, not be attacked) at the time of Judgement.
-2. The first problem with this is that there is little to truly prevent the feed operators from colluding to lie (which is unacceptable). By buying cheap shares and reporting falsely, feed operators can reap substantial profit (InTrade's Barack Obama market expired with 20 million USD volume). If feeds are anonymous this attack is easier to finish, if they are non-anonymous this attack is easier to start. With a low number of feed operators, that have brands/customer-support-contact info, a clear reason to work together, and a clear payoff, they will either collude, or create chaos by falsely accusing each other of attempting-to-collude. Secondly, non-cross-validated/centralized sources are fragile, and can be corrupted, hacked, closed by authorities, etc. Thirdly, this attack does not allow the feed operators to 'retire' and choose to do something else. In Truthcoin, one wants to keep one's reputation-tokens as "clean" as possible, so that one can eventually sell them, but with systems like these, there is no safe way to cash out, so one profits by making one's last report a lie, and lying about when one plans to make a 'last report'. Fourth, it is complex to choose a method for determining the feed-sources and deciding what to do if they break or start lying, in a way that cannot itself be gamed (ie with me falsely saying that you are a bad feed operator and you should be ignored).
+2. The first problem with this is that there is little to truly prevent the feed operators from colluding to lie (which is unacceptable). By buying cheap shares and reporting falsely, feed operators can reap substantial profit (InTrade's Barack Obama market expired with 20 million USD volume). If feeds are anonymous this attack is easier to finish, if they are non-anonymous this attack is easier to start. With a low number of feed operators, that have brands/customer-support-contact info, a clear reason to work together, and a clear payoff, they will either collude, or create chaos by falsely accusing each other of attempting-to-collude. Secondly, non-cross-validated/centralized sources are fragile, and can be corrupted, hacked, closed by authorities, etc. Thirdly, this attack does not allow the feed operators to 'retire' and choose to do something else. In Hivemind, one wants to keep one's reputation-tokens as "clean" as possible, so that one can eventually sell them, but with systems like these, there is no safe way to cash out, so one profits by making one's last report a lie, and lying about when one plans to make a 'last report'. Fourth, it is complex to choose a method for determining the feed-sources and deciding what to do if they break or start lying, in a way that cannot itself be gamed (ie with me falsely saying that you are a bad feed operator and you should be ignored).
 3. This requires trust and provides no method for cashing-out that trust. Again, a 20 million payday today for one lie is very persuasive, against an uncertain future stream of small fee payments. This strategy is already used by the service [Reality Keys](https://www.realitykeys.com/), and may be effective in a low-cost environment where many specific contracts are needed.
 4. Same problem, attacker simply trades on the losing side before lying. This is unblockable, and attempts to block it will let clever traders 'fake out' rivals by buying up losing shares last minute to tinker against the countermeasure.
 5. Although I was working with this idea for awhile, its not as good as one might think, because in Nash Equilibrium you still need an incorruptible way of determining outcomes (for the holdouts [even if it were never be used on-path, the game theory requires that the off-path reasoning be persuasive]). Furthermore, one holdout can cause you to have to research the issue, and once you've done that, it costs nothing to re-use that research for all other traders in that market. So a losing trader can easily force the administrator to research his claim, if the administrator is not prepared for the possibility that he will be required to research ALL claims, than this can be gamed strategically by buying a small amount of every losing claim.
@@ -180,7 +175,7 @@ Secondly, the [public might just pay for publicly useful information]( http://ww
 
 Thirdly, although the information revealed by a PM is public, the effect of that revelation may be privately beneficial. For example, consider [Robin Hanson’s Wish]( http://www.overcomingbias.com/2008/04/if-i-had-a-mill.html), where conditional PMs are introduced to advise firing an incompetent yet entrenched CEO. With 1000 USD per firm to kickstart this idea, we might then collect data on firm/BoD/investor response. However, if we did not have 1000 USD per firm ourselves (we don’t), is there not someone who would benefit from the creation of this information? Of course there is: the second-in-line for CEO! CEOs are typically paid so much that their salary can be twice that of even the CFO. 1000 bucks is nothing for a decent shot at such a nice raise, to say nothing of the competitive spirit which overwhelms those who seek the top job. Even *better*, individuals would not try this if they suspected their CEO of actually being quite competent. So there is actually an economically-efficient self-selection in the creation of these markets: when unneeded, they are not created. Better still, competent CEOs may themselves create these markets to protect their job (although I doubt this type of activity will happen for some time).  
 
-Fourth, individuals could collaborate via assurance contract to efficiently pool their info-demand. In fact, in [my applications paper](https://github.com/psztorc/Truthcoin/raw/master/docs/3_PM_Applications.pdf), I describe a way of using PMs to create extremely incentive-powerful Trustless Dominant Assurance Contracts. To my knowledge nothing similar has ever been conceived.
+Fourth, individuals could collaborate via assurance contract to efficiently pool their info-demand. In fact, in [my applications paper](https://github.com/psztorc/Hivemind/raw/master/docs/3_PM_Applications.pdf), I describe a way of using PMs to create extremely incentive-powerful Trustless Dominant Assurance Contracts. To my knowledge nothing similar has ever been conceived.
 
 ### Isn't this just gambling?
 
@@ -201,12 +196,12 @@ Problem gambling is exacerbated by fast, high payouts at highly improbable odds.
 
 Finally, the market environment does guarantee that these gamblers, at the very least, are always getting fair odds and charged minimal fees.
 
-And, most finally of all, Bitcoin already enables a great deal of gambling. Truthcoin seems unlikely to enable much marginal gambling, let alone marginal problem gambling.
+And, most finally of all, Bitcoin already enables a great deal of gambling. Hivemind seems unlikely to enable much marginal gambling, let alone marginal problem gambling.
 
 
 ### If PMs can be used to finance Public Goods, can they also be used to finance Public Bads (for example, to assassinate someone)?
 
-This question has grown in popularity to the degree that it warranted inclusion in [the applications paper](https://github.com/psztorc/Truthcoin/raw/master/docs/3_PM_Applications.pdf) (Appendix 1, forthcoming).
+This question has grown in popularity to the degree that it warranted inclusion in [the applications paper](https://github.com/psztorc/Hivemind/raw/master/docs/3_PM_Applications.pdf) (Appendix 1, forthcoming).
 
 <!--
 
@@ -250,13 +245,13 @@ Yes, at first. However, these people will quickly start losing large quantities 
 
 ### How do you address the problem of low liquidity?
 For PMs which are bounded, it is possible to design them such that traders can always update the market price, by trading with an automated market maker powered by a market scoring rule. http://hanson.gmu.edu/mktscore.pdf
-I threw together an Excel sheet in the docs folder [LogMSR_Demo.xlsx](https://github.com/psztorc/Truthcoin/raw/master/docs/LogMSR_Demo.xlsx) for additional clarification. Feedback is appreciated.
+I threw together an Excel sheet in the docs folder [LogMSR_Demo.xlsx](https://github.com/psztorc/Hivemind/raw/master/docs/LogMSR_Demo.xlsx) for additional clarification. Feedback is appreciated.
 
 ### Won't the BTC/USD rate be so volatile that it overwhelms any change in the prediction's accuracy? Doesn't this project need stablecoins?
 
 This project creates a "stablecoin" for every Decision in it. The Decisions  define 'dimensions' of the Markets, and partition them into states.
 
-So it is possible to bet "in" any currency for which there is a Decision (USD, Gold, DJIA, etc.), see [Example 5](http://www.truthcoin.info/papers/2_PM_Types.pdf).
+So it is possible to bet "in" any currency for which there is a Decision (USD, Gold, DJIA, etc.), see [Example 5](http://www.bitcoinhivemind.com/papers/2_PM_Types.pdf).
 
 
 ## Design
@@ -289,13 +284,13 @@ That depends on your definition of complex. In python, on an i5 processor, svd s
 ### It sounds a lot like you've reinvented...
 So far, people have written in 'Bayesian Truth Serum', ["Thirteen theorems in search of the truth."](http://www.socsci.uci.edu/~bgrofman/69%20Grofman-Owen-Feld-13%20theorems%20in%20search%20of%20truth.pdf), [EigenTrust](http://en.wikipedia.org/wiki/EigenTrust), and a few other things (that weren't quite right).
 
-I probably did. I don't think any of my core building-block ideas are that complicated (although [the assembly](http://forum.truthcoin.info/index.php/topic,195.0.html) was), especially compared to the library of academic work published each year since forever. BTS allows you to vote on how other's will lie, this is a little better but doesn't scale as easily (an furthermore in a coordination game all the votes would theoretically be equal to each other).
+I probably did. I don't think any of my core building-block ideas are that complicated (although [the assembly](http://forum.bitcoinhivemind.com/index.php/topic,195.0.html) was), especially compared to the library of academic work published each year since forever. BTS allows you to vote on how other's will lie, this is a little better but doesn't scale as easily (an furthermore in a coordination game all the votes would theoretically be equal to each other).
 
 ### Do you feel its necessary to penalize miners for not voting? In my mind it would be better to rely on positive rewards as we wouldn’t really want to encourage voting by those with less interest/knowledge in the outcomes.
 
 Actually it is necessary. Firstly the concern you mentioned later is mitigated by (and one of the main benefits of) Branching, where voters stay only on the branches/trees where they are interested and knowledgeable. More importantly, however, if we assume voting is costly (which it certainly is), then the assumption I made on page 2 that voters are lazy implies that theoretically none of them will vote, in a sort of 'tragedy of the commons'. Realistically, some might care enough to vote, but this would weaken the confidence in the coordination-ballot, as it takes a smaller % of votes to throw off. Thirdly, voters are not just contributing their point of view when they vote, they are also securing the network by validating the point of view of all other voters (via the coordination game). Notice that an individual's penalty for not-voting is only high when many other individuals have also not-voted. You can miss a vote every once in a while, and as long as everyone else is voting it won't really be a big deal for you.
 
-### Why is reputation ("Votecoins", "Truthcoins") tradeable? That seems overly complex, and/or allows rich people to attack the network.
+### Why is reputation ("Votecoins", "Hiveminds") tradeable? That seems overly complex, and/or allows rich people to attack the network.
 
 See the "Reputational Capital" section of the "How do you know that people wont claim an outcome was whatever will benefit them personally?" question.
 
@@ -313,161 +308,9 @@ This project aims to solve all of these problems.
 
 ### Can we test your resolution-algorithm empirically? You are asking users to accept a few significant sources of uncertainty at once. 
 
-Someone is already trying to do that (and are using [my notes here](https://github.com/psztorc/Truthcoin/tree/master/lib/qualtrics), if anyone else wants to try and get this set up). Although the folder is labeled Qualtrics, I believe the current plan is to use Mechanical Turk (following the Harvard study at PeerPrediction.pdf).  
+Someone is already trying to do that (and are using [my notes here](https://github.com/psztorc/Hivemind/tree/master/lib/qualtrics), if anyone else wants to try and get this set up). Although the folder is labeled Qualtrics, I believe the current plan is to use Mechanical Turk (following the Harvard study at PeerPrediction.pdf).  
 
 If two or more people could do it, that would be fantastic!
-
-
-## Augur
-
-
-**tl;dr** Augur was one of many teams attempting to build Truthcoin. I stopped advising them due to their technical incompetence, and their outrageously false claims (about their exclusivity, advisors, 'contribution' to the protocol design, etc). Today, I would best describe what remains as "a way to scam money from gullible Ethereum users".
-
-**Update (8/9/2015)**: **I've offered to debate both Augur and Vitalik on "The Augur Cowdsale", during which I am willing to answer any question or justify anything I've said.** If this message is still here, the offer stands. I will *not* address every internet comment made by Augur...that is exhausting (particularly because they have a full time social-media/marketing team-member with professional account-management software, and ~100 slack team they routinely tap for reddit-votes). If you'd like an Augur-comment responded to, you must demand that Augur accept my debate offer!
-
-I had not planned to write any of this. I've written it now, simply because I've been "frequently asked" these very "questions" following [the Bitcoin Magazine article about Truthcoin](https://bitcoinmagazine.com/20971/roger-ver-backing-prediction-market-sidechain-may-important-invention-since-bitcoin/). Ridiculous though this piece of writing is, it is my attempt to directly and honestly answer these questions.
-
-Secondly, my associates persuaded me that, given that Augur was going to raise money from the public (featuring my name and my work prominently on their website), I in fact had an ethical *duty* to disclose my true thoughts on the organization to any who might consider investing.
-
-
-
-### Augur appears to have finished something. Is it any good? Why don't you just use it?
-
-I'm afraid that Augur's decision to ignore my advice (which was: to avoid "writing new code" at all costs, and instead fork the Bitcoin Core C++ codebase, changing as little as possible), while convenient for them (as it saved them a lot of work that they, having no original blockchain or C++ experience, would have found very difficult) makes what they've created to be almost completely useless.
-
-#### Back to Square One
-
-Of the numerous problems with their decision, two are fatal.
-
-##### Everything New Sucks
-
-The first is that, in a project such as this, **conservatism is paramount**. The current Bitcoin blocksize struggles are a perfect example of the *tremendous headache* that can result from post-launch "hard forks". In its 6 year history, Bitcoin has never had a hard fork.
-
-This stability produces benefits which are hard to understate: long term projects, such as research papers or new cryptosystems ('atop' Bitcoin's), can begin, today, knowing that their work will still be relevant in the future. Every time a software protocol changes, it alienates (perhaps only temporarily, perhaps not) those members of its community who most contribute to its long term vitality. Worse, any maintenance/innovation on the original version of the protocol, which would ordinarily be freely usable, might no longer function. The word "might", while seemingly innocuous, is actually disastrous: reviewing code is almost as much drudgery as writing it.
-
-Yet, much more importantly, the stability is *proof* that *no major problems exist* in the current codebase. Anyone who has ever written software code knows how easy, how *incredibly* easy, it is to think that code is bug free...until you turn it on and realize that there are bugs everywhere. The more complex the software, the worse the problem is. Not only does the stability prove there are no problems, but, for a project like Bitcoin, running the software for years (in an adversarial environment containing Silk-Road-type things) is the **only** way to demonstrate that there are no problems. There is no substitute for this. From a security perspective, new code is permanently and unalterably inferior.
-
-Put simply: the number of changes must be *minimized*. By deciding to start from scratch the changes have instead been *maximized*.
-
-##### The Needs of Newborn Children
-
-The second fatal problem with failing to fork Bitcoin Core (as I demanded), is that **software code takes more effort to read than it does to write**. Truthcoin will not exist until it is *both written and read*. One may think that merely writing the code, and open sourcing it, would be enough. This is a delusion. Writing the code is barely scratching the surface of the total amount of man hours inherent to "Truthcoin Major", the project! Those qualified to review the code are few, their time is limited and their options are many. Getting an ACK from these individuals is a task that is itself comparable to the writing of the entire 0.1 alpha. Forking Bitcoin Core allows these individuals to trace, conceptually, which edits were made and why. The process will *still* be excessively burdensome. But, for from-scratch code, the process will be *nearly impossible*.
-
-Even if the new intern really *is* world-class (no problems at all, 0%), no one will trust him (nor should they) with anything important until they get to know him.
-
-
-#### Ethereum Happens to Be Incompatible with Truthcoin
-
-In particular, the selection of Ethereum is an extraordinary risk. At best, it is a surrender of parts of the code to someone else. In this case, the Augur team literally *cannot* guarantee the operation of their software, without themselves auditing all of Ethereum (although in this monumental task, the Eth community can -for some features- [work together](https://en.wikipedia.org/wiki/Diffusion_of_responsibility) on a continuous search for problems). 
-
-It gets much worse, of course. Ethereum may make changes which make it incompatible with Truthcoin. At that point Augur would either need to compromise Truthcoin's design, or fork Ethereum and support/maintain it privately from then on. It is my belief that the negative NPV of the effective costs of doing this would be at least hundreds of thousands of dollars. Moreover, the fork of Ethereum would surely destabilize the price of "Ethers" and "gas".
-
-It so happens that, as it is, Truthcoin **already** requires at least one severe change to be made to *even a hypothetical version of Ethereum which exists, is stable, and runs without discovering any new bugs or problems*. To summarize quickly, in Ethereum (unlike with merged-mined sidechains), it is trivial to build "parasite contracts" which steal the labor done by Truthcoin's Voters without paying for it. By doing this, these parasite contracts can then undercut the fees of the Truthcoin protocol. In this case, one of Ethereum's most beloved features, that the 'contracts' can reference and build on each other, is revealed to be breathtakingly restrictive. It implies that nothing built on Ethereum (as currently designed) will ever be able to pay anyone for their labor (for the inputs that users type into Ethereum). For any labor to enter Ethereum, this contract-reference feature would have to be disabled or restricted.
-
-That's just the beginning of my long list of technical concerns with Ethereum.
-
-**Update (8/9/2015)**: Re; Parasite Contracts, at [this comment](https://www.coingecko.com/buzz/augur-conceptual-godfather-thinks-project-will-fail#comment-2183083942) an Auger believes that he has caught me in some kind of technical knockdown argument, stating "Paul, there's a reddit thread where vitalik says your comments about parasite contracts are incorrect and _wrong_". This is typical of the arrogance I had to endure for months while advising the Augur team: [1] wildly false statements are made, and either [2a] I step in to correct the statements or [2b] failing to see an objection from me, the Augur team feels that, this time (!) they've finally got something, and doubles-down on it (as they recently did with [their conceptually ridiculous Big-5 TC-index](http://www.reddit.com/r/Bitcoin/comments/36o2dp/augur_how_a_decentralized_prediction_market_works/crfw9v4), which they later admitted was completely broken).
-
-In these second cases, they are always quick to claim that, yes, They Are Important because they 'notice' and 'fix' problems, when in reality they flat out don't know what they are talking about. In this case, visiting [the supplied link](https://www.reddit.com/r/ethereum/comments/3fmuvz/the_augur_reputation_token_crowdsale_will_begin/ctqhyqs) actually yields the quote (emph added) "...**Ethereum contracts can make 'piracy' of blockchain-based services trivial**, preventing them from charging fees higher than about $0.05." ( Par for the course, that Augur would spin this into "vitalik says your comments about parasite contracts are incorrect and _wrong_". ) Vitalik goes on to make a second claim about Truthcoin, which is more wishful thinking on VB's part. 
-
-I'd explain how, but, so far, the withholding of my technical wisdom from Augur team has been one of the wisest decisions in the whole execution of this project. Instead, I think I'll use my superior information to stay one step ahead (although, in a live debate, perhaps I couldn't resist).
-
-
-#### A Sinking Ship?
-
-Still, to this very day, no one can produce for me a [final good](https://en.wikipedia.org/wiki/Final_good) that someone would buy with Ethereum, let alone one that wouldn't be out-competed by a human being using TOR, let alone one that would justify X00 hours of skilled developer labor. With nearly no consumer demand whatsoever (and how does this demand translate to revenue, exactly?), and the team already having spent the overwhelming majority of their multi-million dollar crowdsale cash infusion, it is likely that the entire project will be abandoned altogether.
-
-Perhaps Ethereum will succeed, in the end. But most new ideas are bad, most new projects fail, and Eth is right on schedule for both. Again, I wouldn't mention this at all, except for the fact that it directly affects me.
-
-
-#### Eternal September
-
-The remaining problems are with the Augur team itself. I read a Bitcoin joke once, it quoted a clueless looking guy in a suit saying: "I just discovered Bitcoin, now let me fix it for you!" which referenced the strange tendency of Bitcoin-newbies to just jump in and make a some ignorant comment or another (usually about deflation). Some of the subtle facets of Bitcoin take years to understand. Yet, psychologically, people always feel entitled to give their point of view.
-
-I bring this up because, over the past 8 months or so, the Augur team has challenged me to modify my design in roughly 20 to 30 ways. So far, every single one of these changes would have, at best, introduced only inconvenience and, at worst, caused the Truthcoin cryptosystem to fail completely. This isn't to say that Augur will never make a change which is an improvement. It is simply to say that each improvement will likely come at a cost of many un-improvements. With such a degree of recklessness in the *intentional* actions of the team, one can only guess how many *unintentional* problems have been introduced / will be introduced, in the software code they've written. I do not have the resources to review *even only the non-Bitcoin* parts, and (unfortunately) no other person yet has comparable grasp of all of Truthcoin's interacting pieces.
-
-So the code is likely to be useless, I'm afraid.
-
-### How did this strange situation of two teams come about? Who are the Augur Team? 
-
-tl;dr I released my work as an open proposal, and all kinds of people contacted me to learn more about it. The best team wanted to remain secret, the Augur team (nearly the worst) wanted to do loud marketing.
-
-#### April 2014 -- Dyffy
-
-The Augur team was originally a social Altcoin betting-website startup called "Dyffy", funded exclusively by Joe Costello ([nearly the CEO of Apple](http://www.businessinsider.com/steve-jobs-joe-costello-interview-for-apple-ceo-2014-9)). In April 2014, the then-CEO, Matt Liston, noticed my newly published Truthcoin whitepaper, and asked me to take a look at their website. I gave them the same advice that I gave the other startups that contacted me: that the Bitcoin community wouldn't want to deposit (untraceable, irreversible) e-cash with them, a single point of failure, and a single source of the bet-resolution.
-
-In August 2014, Matt contacted me again. Their original idea was not gaining traction, they had meanwhile launched an altcoin ("Roxcoin") which had also failed to gain traction, and so he wanted to talk to me about pivoting to Truthcoin. I told him the same thing I told other startups that contacted me: that Truthcoin was a completely open proposal for anyone to work on. Matt wanted to officially hire me as an adviser. I felt that this would imply that I had uniquely endorsed Dyffy. I was not ready to do this to any of the other groups (to whom I made the same promise of impartiality), particularly because Dyffy's team of web developers was so unlike what the project required (C++ programmer(s) familiar with Bitcoin) so I refused, instead advising Dyffy (and others) for free for several months.
-
-This involved some sacrifice on my part. I already had a full-time job I loved, at the Yale Econ department, to which I commuted every day (like every other normal person with a non-tech job). Occasionally, I would work an additional 10-20 hours a week, nights and weekends, completely for free (and so that other people could have jobs). My friends and family were not happy, as I was chronically late for everything.
-
-#### Autumn 2014 -- Pythia
-
-The advising with Dyffy did not go very well. Dyffy (now renamed "Pythia" after the Oracle of Delphi), was running out of money and had to spend considerable time seeking new sources of capital. Investor interest was very high following my summer Let's Talk Bitcoin interview, so I was able to personally made many introductions. Most of these investors sang the same song, of prohibitive regulatory concerns, and at the time I would not have considered leaving my job to work on Truthcoin (hoping instead that some other group would absorb the legal costs and bring my ideas into the world). Although I introduced 3 or 4 investors to Pythia, their reaction was overwhelmingly negative. Many of these investors were concerned about my lack of personal involvement, and cited a wide disparity between the quality of my work and Pythia's lack of relevant experience.
-
-I spent a considerable time making slides for anyone pitching Truthcoin to use (some can be seen on the [website](http://www.truthcoin.info/presentations/)). Two sets I worked on quickly, so that they would be ready in time for Pythia's presentation to Tim Draper's DraperU, but due to some kind of miscommunication neither the slides nor their (vastly superior, I thought) content was used. I had already mentioned that I would be unable to attend the pitch in person (to help) as I was attending a wedding (on the East Coast, my Coast of choice). Pythia left DraperU empty handed.
-
-#### Why Dr. Peterson has a Job
-
-At around this point Joe Costello, financial backer of Pythia, contacted me personally a few times. He eventually asked me for a list of names of who, in the whole Bitcoin world, I would like to hire to build Truthcoin, and who, of his Pythia team, had similar or relevant skills. I knew what this list meant, and (like any human being) wanted to resist doing it. However, Matt had indicated that the company would probably fall apart completely (and everyone would lose their jobs and equity) if Pythia did not pivot to Truthcoin, as they were apparently out of pivots (or what have you).
-
-Jack Peterson, the CTO, was for many months strongly against pivoting to Truthcoin, and did not come around until Matt told him that his existing equity (Jack held the most equity) would be worthless if he did not go along with the plan (which was around the time of the DraperU pitch). I put Jack on my list, because he was the only one on the entire team who would even claim to be able to code in C++. I did not put Matt on this list. I sent the list to Costello.
-
-Jack contacted me a few days later saying that they had "cleaned house", and that he was now in charge. He again offered me a job, but I again declined for exactly the same reasons.
-
-I had, in fact, been contacted by Blockstream at around the same time (winter 2014-2015), for conversations that were at least vaguely comparable. It should go without saying that, despite my previous commitment to impartiality, the possibility of working with the Blockstream team was overwhelmingly more agreeable. Blockstream did not offer me a job (I was honored to be considered) but they did give me lots of helpful advice, including constant warnings about the prohibitive regulatory problems I was likely to face. These warnings contributed to my refusal to officially join any organization.
-
-#### Winter 2014-2015 -- Augur
-
-Meanwhile, the advising for Pythia, recently renamed "Augur", was not going very well. I would spend days (weekends, luckily the winter was dark and cold, and hence no great loss) on pieces of writing, and this work would be ignored. My scarce (free) time would be consumed belaboring points that I had made many times before. Once, someone said “[This document is very long]...you should put a list of changes at the end, in between versions.” The very document he was talking about *had* a list of changes, at the end of the document.
-
-On occasion I would be asked questions, to which I felt the answer was, with a little work, knowable. So, instead of answering immediately, I would wait to see if they would get the answer for themselves. I did this three times, and in each of the three times Augur failed to *ever* produce any answer at all. By this I mean that they have been thinking and wondering about answers to important questions for *months*. One of these questions is **literally** a matter of life and death!
-
-People would say cringeworthy things like “I know what *that* means, but can you explain how *you* are using it in this situation.” Someone there, believed that use of a specific type of mathematical formula could “produce a profit” for users. When I explained that this was impossible, and that it would be highly embarrassing (for me, as an associated adviser) for anyone at Augur to suggest that it *were* possible in public, they told me to “F*ck off” and stop hanging around in their Slack chat (from which I was recently banned).
-
-#### Spring 2015 -- Derailment
-
-Without me around to constantly put them back on course, the new leader Jack went on a [months-long tangent](http://www.augur.net/blog/a-decentralized-lie-detector), plagiarized at best, [culminating in ideas that cause Truthcoin to break](http://www.reddit.com/r/Bitcoin/comments/36o2dp/augur_how_a_decentralized_prediction_market_works/crfw9v4). Ultimately Augur admitted what I had always suspected: that they lacked the technical skill required to implement my design off of Bitcoin Core. Instead, to save work and make use of their existing team's (non-C++) skills, they decided to outsource the consensus work the newly created Ethereum, and write brand new Truthcoin in the new pseudo-Python language "Serpent". I found these changes, most of all, to be unfathomably reckless and entirely unacceptable (see below).
-
-Fortunately, one of the investors who had previously met and rejected the Augur team brought the Truthcoin idea to Roger Ver. To my immense relief and excitement, Roger contacted me to inquire about his ability to assist, which, as a non-US citizen or resident, was very great. I put him in touch with one of the most promising programmers, who had been working on Truthcoin in the past, and after getting an email from Roger he jumped right back to work.
-
-The three of us wanted to keep the work as private as possible, so that the programmer and I could not only [1] avoid any unwanted attention, but also [2] iron out the details of the work (in an effort to avoid struggles like the current blocksize debate).
-
-Unfortunately, Augur was planning a crowdsale and many of my supporters convinced me that I had a duty to come forward and at least inform potential Augur investors that my faith in their version was low, so low that I was actively working on a competing version. Neither Roger, nor I, nor the programmer were happy about this, but we eventually did it anyway.
-
-In general I don't feel very happy about the journey. I would even say that I feel that deliberate and honest people "don't belong" in the tech sector. I'm sorry to say that I would advise someone in a similar situation to avoid interacting with Bitcoin as a producer (instead, remain a user, where you get all of the fun without any of the work).
-
-### But their website lists all of these amazing people as advisers and commentators...
-
-I myself was listed as an adviser (until very recently), and Roger Ver was front-paged with pro-Prediction-Market quotations. This was despite our unambiguous disapproval of Augur.
-
-I happen to know many of the "advisers" personally, some for many years. They are simply nice guys (like me), who were asked "Do you mind if we list you as an adviser?" and said "Yes" (as I did), to [encourage Prediction Markets in general](https://twitter.com/robinhanson/status/629319180614041600). The clever assembly of these (ultimately hollow) pieces is, so I now understand, part of the Silicon Valley "marketing" machine (what we in quaint New Haven would call "a scam").
-
-
-### Isn't it extremely unprofessional to write all of this?
-
-I honestly don't know. What do you think?
-
-On their website, Augur used (with permission) my name, my photograph, my written research, my software code, my figures, my professional affiliations, but most of all, my **idea**. When asked in interviews and at conferences  (publicly recorded) about how Augur solved the (yet unsolved) "Oracle problem", they told audience members that "a genius from Yale" who "sits on our advisory board" had "figured all of this out" and referred people to my work, and gave people my name and contact information (knowing that I would answer technical questions on their behalf for free). I was in contact with the members of their organization since before the organization existed.
-
-So, given that they then *intended to raise money from the public*, should I not publish my thoughts, in a bottom corner of my own website where they can at least be found? Many have written to me claiming I, *despite what discomfort I might prefer to avoid*, have an **ethical responsibility** to publish my unvarnished thoughts in full (and more). It could even be described as **fraud**, I was advised, if I *in any way* benefited from Augur's crowdsale while *"withholding"* relevant information from the public.
-
-I have, of course, been trying to keep the public informed. For example, Augur always [pitched themselves](http://www.augur.net/blog/augur-answers) as the "only" decentralized prediction market platform...which was always a direct lie, one which I felt responsible for correcting, even though this was an incredibly time consuming and  ineffective game of whack-a-mole.
-
-On top of that, I feel that these answers *are* my honest answers to questions I am frequently asked. Again, I did not write this FAQ-section (nor would I ever) until I was "asked" about it "frequently" following [the Bitcoin Magazine article about Truthcoin](https://bitcoinmagazine.com/20971/roger-ver-backing-prediction-market-sidechain-may-important-invention-since-bitcoin/). I also feel that, if Augur fails, technically, I will be (fairly or otherwise) blamed and discredited as a result. If Augur's activities didn't affect me, I would probably be fine with them.
-
-Of course, new code isn't *always* worse than old code. It depends *who* develops it and how it is designed/tested, hence my comments. Is it appropriate for me to use the FAQ to criticize Ethereum for running out of money? I don't know...how would you react if someone left your children in the care of a complete stranger? These are my honest feelings, about which you, in the audience, have asked.
-
-### Wouldn't it be more helpful to comment on the technical merits alone?
-
-There were indeed many such technical discussions made privately over the last several months. Those relevant disagreements no longer persist because I, in the past, successfully prevented Augur from introducing technical problems.
-
-However, as I mentioned, I eventually stopped doing this privately, which then pushed *some* of these conversations into the public. One major example is [here](http://www.reddit.com/r/Bitcoin/comments/36o2dp/augur_how_a_decentralized_prediction_market_works/crfw9v4), three or four major examples at once are contained [here](http://forum.truthcoin.info/index.php/topic,173.msg899.html#msg899). Minor examples are hidden all over the place, one of them [here](http://www.augur.net/blog/augur-answers#comment-1869994766).
-
-In all cases I was eventually contacted with a "You were right (again)."
-
-Notice that, had I not discontinued the private technical advice (the more "professional" advice-giving), I would not have these public examples to turn to, and would be even less able to answer *this* question. Damned if you do, damned if you don't.
-
-So it was with our decision to withhold Roger's project. It is unfortunate that I, in my attempt to do justice to my ideas and to the Bitcoin community, contributed to such a spectacle.
 
 
 ## Other
@@ -487,8 +330,8 @@ Update: The long awaited [paper](http://users.encs.concordia.ca/~clark/papers/20
 ## Contact
 
 ### How do I contact you?
-truthcoin@gmail.com  
-https://twitter.com/Truthcoin  
+Hivemind@gmail.com  
+https://twitter.com/Hivemind  
 Please share your opinion, and your questions so the FAQ can grow!
 
 ### How on Earth do you pronounce "Sztorc"?
