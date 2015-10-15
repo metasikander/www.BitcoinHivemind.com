@@ -33,8 +33,11 @@
               <span class="icon-bar"></span>
             </button>
           </div>
-          <a href="{{ "/" | prepend:site.baseurl }}" class="navbar-brand">{{ site.title }}</a>
+          <a href="{{ "/" | prepend:site.baseurl }}">
+            <img src="{{ "/images/hivemind-banner.png" | prepend:site.baseurl }}" alt="Hive">
+          </a>
         </div>
+        {% comment %}
         <div class="collapse navbar-collapse js-navbar-collapse">
           <ul class="navbar-nav nav">
             {% include nav.html %}
@@ -43,6 +46,7 @@
             {% include nav-right.html %}
           </ul>
         </div>
+        {% endcomment %}
       </div>
     </div>
     <div class="container">
