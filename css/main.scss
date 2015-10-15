@@ -34,7 +34,8 @@ $gray: #888;
 $btn-default-color: #555;
 $gray-light: #aaa;
 
-$brand-primary: #0074D9;
+// $brand-primary: #0074D9;
+$brand-primary: #C57C1C;
 $code-color: #555;
 $code-bg: #f5f5f5;
 $headings-color: #333;
@@ -130,7 +131,7 @@ h3 {
   font-family: $headings-font-family;
 }
 .navbar-static-top {
-  margin-bottom: $space-md;
+  margin-bottom: $space-xs;
 }
 
 .page-archive {
