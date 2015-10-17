@@ -66,17 +66,15 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 {% endcomment %}
 
+## [Papers](/papers/)
 
-
-## [Papers](#papers)
-
-### [Technicals](#technicals)
+### Technicals
 
 - <a href="/papers/hivemind-whitepaper.pdf">Hivemind Whitepaper</a>
 - <a href="/papers/LogMSR_Demo.xlsx">Excel File: Trading Under MSRs</a>
 
 
-### [The PM Sequence](#the-pm-sequence)
+### The PM Sequence
 
 1. <a href="/papers/1_Purpose.pdf">Why do this?</a>
 1. <a href="/papers/2_PM_Types.pdf">The Power of Prediction Markets</a>
@@ -85,11 +83,12 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 1. <a href="/papers/5_PM_Manipulation.pdf">Manipulation of Prediction Markets</a>
 
 
-## [Presentations](#presentations)
+## [Presentations](/presentations/)
 
 - <a href="/presentations/what-is-hivemind.pdf">What is Hivemind?</a>
 - <a href="/presentations/hivemind-outcomes.pdf">Outcome Resolution</a>
 - <a href="/presentations/info-problems.pdf">Ending the Age of Bullshit</a>
+- [My (mostly related) talk at the Montreal Scalability Conference](https://www.youtube.com/watch?v=TgjrS-BPWDQ&t=25m53s)
 
 
 ## Contact
