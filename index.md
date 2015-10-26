@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Bitcoin "Smart Contracts" (As Smart As We Are)
+title: Open Source Knowledge 
 ---
 
-## Open Source Your Knowledge
+## Bitcoin "Smart Contracts" (As Smart As We Are)
 
 Hivemind is a **Peer-to-Peer Oracle Protocol** which absorbs accurate data into a blockchain so that Bitcoin-users can speculate in
 **Prediction Markets**. These markets have [the potential](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf) to revolutionize
