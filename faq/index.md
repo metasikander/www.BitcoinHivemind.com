@@ -6,9 +6,11 @@ title: Frequently Asked Questions
 
 [Linkable/Pullable GitHub Version](https://github.com/BitcoinHivemind/www.bitcoinhivemind.com/blob/gh-pages/faq/index.md)
 
-Note: this FAQ is a **literal** FAQ. I did not write it to be an organized, readable document. The questions which are here, are here because they were asked very frequently. I copied each question here (so that it might be found with ctrl + f or search engine) and wrote up a reference answer.
+Note: this FAQ is a **literal** FAQ. I did not write it to be an organized, readable document. The questions which are here, are here because they were asked very frequently. I copied each question here (so that it might be found with ctrl + f or a search engine) and wrote up a reference answer.
 
 If your question is missing, please email it to me or use a pull request (link above).
+
+PM = Prediction market.
 
 ## Basics
 
@@ -26,7 +28,7 @@ Hivemind has users, just like Bitcoin, but it also has "employees". These employ
 
 * **Free**: To use Hivemind's advanced features, you need to own Bitcoin. That's it!
 
-* **Authentic**: Hivemind, unlike all other 2.0 projects, proceeds as though its creators actually believe in it. We pay for *everything* upfront (design, development, review, testing), with no guarantee that the project will even make it through all of these (risky) phases without encountering a fatal problem. As a result of this, you know that we literally *can't* be dishonest with you (we have nothing to gain either way). Other projects hype up a "Order now, while supplies last!" message, followed by a shakedown for money! Such an approach, while admittedly effective at generating a community (with skin-in-the-game), creates a huge problem: even otherwise honest project-directors face a temptation to lie to the public (especially "greater good" lies powered by groupthink and wishful-thinking), particularly about obscure long-run problems. With Hivemind you don't even need to be emotionally invested.
+* **Authentic**: Hivemind, unlike all other 2.0 projects, proceeds as though its creators actually believe in it. We pay for *everything* upfront (design, development, review, testing), with no guarantee that the project will even make it through all of these (risky) phases without encountering a fatal problem. As a result of this, you know that we literally *can't* be dishonest with you (we have nothing to gain either way). Other projects hype up an "Order now, while supplies last!" message, followed by a shakedown for money! Such an approach, while admittedly effective at generating a community (with skin-in-the-game), creates a huge problem: even otherwise honest project-directors face a temptation to lie to the public (especially "greater good" lies powered by groupthink and wishful-thinking), particularly about obscure long-run problems. With Hivemind you don't even need to be emotionally invested.
 
 * **Reputable**: Hivemind was designed by a Yale Statistician with degrees in the blockchain-relevant fields of econ, psychology, and mathematics, who has been passionate about prediction markets since long before Bitcoin was created. Hivemind was reviewed (favorably) by Andrew Poelstra, sidechains-co-author and skeptical author of widely-circulated technical papers on cryptosystem stability. Gregory Maxwell has been aware of the project for months, Peter Todd is actively reviewing it. Unlike 100% of all Bitcoin 2.0 projects, there have (so far) been no standing complaints from these elite-skeptics. Roger Ver, who has famously invested-in and donated-to some of the most promising organizations and experiments in the Bitcoin space (from original Ripple, to BitPay, to Purse.io), and ignored many others, has endorsed this project financially.
 
@@ -81,7 +83,7 @@ From the Miner's point of view, their choice to secure Hivemind results in more 
 
 They are also unlikely to attack Hivemind, for reasons similar (but not identical) to those motivating their non-attack of Bitcoin: a failed attack results in the destruction of the pool operator's buisiness, and a successful attack destroys the future stream of tx-fees for all merged-miners.
 
-### How do you know that people wont claim an outcome was whatever will benefit them personally?
+### How do you know that people won't claim an outcome was whatever will benefit them personally?
 
 (It would be best to consult [the whitepaper](http://www.bitcoinhivemind.com/papers/hivemind-whitepaper.pdf) on this question, particularly the figures on pages 24-26 of Whitepaper 1.4).
 
@@ -133,7 +135,7 @@ Prompts:
 
 Responses:
 
-1. Obviously, the Attack Profit here is defined by 3 inputs: the cash influx for attacking today (call this "Defect"), the stream of payments in the future for honest judges (call this "Conform"), and the discount rate used to reconcile the fact that these payments are taking place at different times (call this “r”). There are severe problems with all 3 inputs: ‘Defect’ can skyrocket unexpectedly as a market becomes popular, ‘Conform’ can collapse on news about the future of the protocol or judge-industry-competitiveness, and r will change with the Judge’s preferences (if a Judge wants to retire and leave the Judging industry, r can become infinite). This uncertainty means that it is practically impossible to guarantee today that a given Decision will have negative Attack Profit (ie, not be attacked) at the time of Judgement.
+1. Obviously, the Attack Profit here is defined by 3 inputs: the cash influx for attacking today (call this "Defect"), the stream of payments in the future for honest judges (call this "Conform"), and the discount rate used to reconcile the fact that these payments are taking place at different times (call this “r”). There are severe problems with all 3 inputs: ‘Defect’ can skyrocket unexpectedly as a market becomes popular, ‘Conform’ can collapse on news about the future of the protocol or judge-industry-competitiveness, and r will change with the Judge’s preferences (if a Judge wants to retire and leave the Judging industry, r can become infinite). This uncertainty means that it is practically impossible to guarantee today that a given Decision will have negative Attack Profit (i.e., not be attacked) at the time of Judgement.
 2. The first problem with this is that there is little to truly prevent the feed operators from colluding to lie (which is unacceptable). By buying cheap shares and reporting falsely, feed operators can reap substantial profit (InTrade's Barack Obama market expired with 20 million USD volume). If feeds are anonymous this attack is easier to finish, if they are non-anonymous this attack is easier to start. With a low number of feed operators, that have brands/customer-support-contact info, a clear reason to work together, and a clear payoff, they will either collude, or create chaos by falsely accusing each other of attempting-to-collude. Secondly, non-cross-validated/centralized sources are fragile, and can be corrupted, hacked, closed by authorities, etc. Thirdly, this attack does not allow the feed operators to 'retire' and choose to do something else. In Hivemind, one wants to keep one's reputation-tokens as "clean" as possible, so that one can eventually sell them, but with systems like these, there is no safe way to cash out, so one profits by making one's last report a lie, and lying about when one plans to make a 'last report'. Fourth, it is complex to choose a method for determining the feed-sources and deciding what to do if they break or start lying, in a way that cannot itself be gamed (ie with me falsely saying that you are a bad feed operator and you should be ignored).
 3. This requires trust and provides no method for cashing-out that trust. Again, a 20 million payday today for one lie is very persuasive, against an uncertain future stream of small fee payments. This strategy is already used by the service [Reality Keys](https://www.realitykeys.com/), and may be effective in a low-cost environment where many specific contracts are needed.
 4. Same problem, attacker simply trades on the losing side before lying. This is unblockable, and attempts to block it will let clever traders 'fake out' rivals by buying up losing shares last minute to tinker against the countermeasure.
@@ -148,18 +150,18 @@ Generally, many ideas ignore...
 2. ...**uncertainty**. If you can't guarantee the mechanism will *always* work, people will respond strategically to this, and avoid using it. Eventually, fate will drift everything into its weakest point, if that point is weak the idea will break.
 2. ...the **Chicken and Egg Scale Problem**, that there's no way to know if something is secure until people begin trusting it with large amounts of money. This makes all empirical assumptions about the project (51% honest, presence/effects of competition) permanently uncheckable, and disqualifies projects with many assumptions or even one potentially-untrue assumption. As a project grows, it may be attacked in extremely expensive ways. If it would not survive such attacks, it will never grow to that size.
 2. ...**differences between brands/individuals and digital identities**. In the real world, you can lose *more* than you've established: you can be sued, shamed, thrown in prison, or (traditionally) whacked. Online, you have little to lose.
-3. ...the **Exit Scam**, ie they tell Judges that the most profitable way to retire is by attacking on their last turn (can't be sued/killed, see above). 
+3. ...the **Exit Scam**, i.e. they tell Judges that the most profitable way to retire is by attacking on their last turn (can't be sued/killed, see above). 
 4. ...how **easy it is to collude**. If Judges think the mechanism is going to fail soon, they're actually much more likely to betray it. They could think this for any reason, including irrational panic, Keynesian-beauty-contest-panic, or induced-reasons such as "some guy says he's got 5 Judges and will kill their families unless they vote X". This implies Early Retirement and #3.
 5. ... **profit-equilibrium**. If Judging is a profitable industry, more Judges will join, increasing competitiveness and decreasing profits. This implies Early Retirement.
 6. ...**the opportunity cost of the attack**, ie that one could potentially make $100 million dollars just by moving a switch here rather than there. You intend to discourage this how, exactly?
 7. ...the **Double Mechanism Reputation Problem**, that proposing two ideas at once (such as a Judge being checked by an Auditor) necessarily means that one idea will go completely unused, making it irrelevant. This is fine strategically ("off-path reasoning"), but not economically (how do you pay Auditors who are never used? What if 10 million people sign up to be auditors?).
-8. ...**Sybil attacks**, ie that one person can be pretending (even from the very beginning, or for a long period of time) to be several people.
+8. ...**Sybil attacks**, i.e. that one person can be pretending (even from the very beginning, or for a long period of time) to be several people.
 
 I did not base my own choice on trial-and-error, I instead based it on my day-to-day real-world truth-finding experiences.
 
 ### In practice everyone [may] pull their data from some kind of external data feed. Presumably they'll use whatever is simplest and cheapest, then they'll be stuck with that until it completely breaks...
 
-This concern has only been voiced for scaled claims, not binaries (which probably are novel and don't have a feed). If Voters are instructed to use a few external sources (for comparison),Do they can double-check their answers (of course, if they believe others will NOT double-check, they will not either, so they might not), or more importantly switch to a new source if the first is broken. I personally find it highly unlikely that Yahoo or Google will start publishing wildly disparate financial index data, as they have every reason to ensure that the data is accurate.
+This concern has only been voiced for scaled claims, not binaries (which probably are novel and don't have a feed). If Voters are instructed to use a few external sources (for comparison), they can double-check their answers (of course, if they believe others will NOT double-check, they will not either, so they might not), or more importantly switch to a new source if the first is broken. I personally find it highly unlikely that Yahoo or Google will start publishing wildly disparate financial index data, as they have every reason to ensure that the data is accurate.
 
 
 
@@ -205,7 +207,7 @@ This question has grown in popularity to the degree that it warranted inclusion 
 
 <!--
 
-I've thought about this in the past and never considered it to be realistic problem for the following reasons:  
+I've thought about this in the past and never considered it to be a realistic problem for the following reasons:  
 
 1. Firstly, the branches (which specialize by info-area) can claim in advance that they will vote .5 on anything they find to be violent or immoral, meaning the market fails to resolve into a State, and anyone who paid to list the Decision/Market gets less (probably zero) money. The branch has effectively 'specialized' into 'non-violent markets'.
 
@@ -258,7 +260,7 @@ So it is possible to bet "in" any currency for which there is a Decision (USD, G
 
 ### Does this really need its own blockchain? Why not do it "on top" of Bitcoin?
 
-Yes. The design requires a way to conditionally pay out money (ie pay out if this happens or this), as well as VoteCoin based on voting behavior. Even if drastically simplified, the design would fundamentally require those things. A blockchain cannot sign transactions, and we cannot introduce a 'signer' without introducing trust.
+Yes. The design requires a way to conditionally pay out money (i.e. pay out if this happens or this), as well as VoteCoin based on voting behavior. Even if drastically simplified, the design would fundamentally require those things. A blockchain cannot sign transactions, and we cannot introduce a 'signer' without introducing trust.
 
 ### In some of your notes you suggested timelines of a couple of weeks for voting. Would it be fair to say this wouldn't be suitable to horse racing etc. where the events happen very fast, there are many of them and payouts need to be made fairly quickly?
 The price will not fix at 1 or 0 until voting occurs, but it will converge toward one of those values as the event info is revealed (ie just as the horse wins). If voting is in two weeks, there may be some time-value-of-money/time-preference/liquidity effect, but shares of the winning horse could still sell for 99.0 or 99.9. Those buying at 99 would be Wall Street / banker types who pick up the shares purely to earn 2 week's worth of above-market interest on their capital. So fast cashouts shouldn't be a problem.
@@ -279,12 +281,12 @@ Ballots are encrypted, and contain a new destination (public key), for this reas
 
 
 ### Is SVD computationally complex, to continue doing on such a large scale and frequency?
-That depends on your definition of complex. In python, on an i5 processor, svd solves instantly for a matrix of dimensions 10000 x 100 (my expectation for the steady-state requirement). It is a common misconception that svd is preformed frequently in my scheme. It is only performed once per Voting Cycle (per month or so) per Branch, upon the maturation of large batches of Decisions.
+That depends on your definition of complex. In python, on an i5 processor, svd solves instantly for a matrix of dimensions 10000 x 100 (my expectation for the steady-state requirement). It is a common misconception that svd is performed frequently in my scheme. It is only performed once per Voting Cycle (per month or so) per Branch, upon the maturation of large batches of Decisions.
 
 ### It sounds a lot like you've reinvented...
 So far, people have written in 'Bayesian Truth Serum', ["Thirteen theorems in search of the truth."](http://www.socsci.uci.edu/~bgrofman/69%20Grofman-Owen-Feld-13%20theorems%20in%20search%20of%20truth.pdf), [EigenTrust](http://en.wikipedia.org/wiki/EigenTrust), and a few other things (that weren't quite right).
 
-I probably did. I don't think any of my core building-block ideas are that complicated (although [the assembly](http://forum.bitcoinhivemind.com/index.php/topic,195.0.html) was), especially compared to the library of academic work published each year since forever. BTS allows you to vote on how other's will lie, this is a little better but doesn't scale as easily (an furthermore in a coordination game all the votes would theoretically be equal to each other).
+I probably did. I don't think any of my core building-block ideas are that complicated (although [the assembly](http://forum.bitcoinhivemind.com/index.php/topic,195.0.html) was), especially compared to the library of academic work published each year since forever. BTS allows you to vote on how others will lie, this is a little better but doesn't scale as easily (and furthermore, in a coordination game, all the votes would theoretically be equal to each other).
 
 ### Do you feel its necessary to penalize miners for not voting? In my mind it would be better to rely on positive rewards as we wouldn’t really want to encourage voting by those with less interest/knowledge in the outcomes.
 
@@ -292,7 +294,7 @@ Actually it is necessary. Firstly the concern you mentioned later is mitigated b
 
 ### Why is reputation ("Votecoins", "Hiveminds") tradeable? That seems overly complex, and/or allows rich people to attack the network.
 
-See the "Reputational Capital" section of the "How do you know that people wont claim an outcome was whatever will benefit them personally?" question.
+See the "Reputational Capital" section of the "How do you know that people won't claim an outcome was whatever will benefit them personally?" question.
 
 
 
@@ -308,7 +310,7 @@ This project aims to solve all of these problems.
 
 ### Can we test your resolution-algorithm empirically? You are asking users to accept a few significant sources of uncertainty at once. 
 
-Someone is already trying to do that (and are using [my notes here](https://github.com/psztorc/Hivemind/tree/master/lib/qualtrics), if anyone else wants to try and get this set up). Although the folder is labeled Qualtrics, I believe the current plan is to use Mechanical Turk (following the Harvard study at PeerPrediction.pdf).  
+Someone is already trying to do that (and is using [my notes here](https://github.com/psztorc/Hivemind/tree/master/lib/qualtrics), if anyone else wants to try and get this set up). Although the folder is labeled Qualtrics, I believe the current plan is to use Mechanical Turk (following the Harvard study at PeerPrediction.pdf).  
 
 If two or more people could do it, that would be fantastic!
 
@@ -317,8 +319,8 @@ If two or more people could do it, that would be fantastic!
 
 ### Mining / Coin Distribution ?
 
-Any game-theorist worth his salt knows Pareto/Kaldor-Hicks improvements. Cryptocurrencies have the **beautiful** ability to preserve ownership by taking snapshots of the unspent-outputs set. I see no good reason not to do this for the currency-tokens, just as I see no good reason not to use Bitcoin’s proof-of-work mining scheme. I’ve never seen a proof-of-stake proposal that achieved Kaldor-Hicks, and in fact my guess is that is it this challenge (KH) that primarily motivated Satoshi to choose his mining scheme (which is Pareto).
-The reputation-tokens are more complex, but the obvious choice is to distribute them to individuals proportional to what they sacrificed to create the software.
+Any game-theorist worth his salt knows Pareto/Kaldor-Hicks improvements. Cryptocurrencies have the **beautiful** ability to preserve ownership by taking snapshots of the unspent-outputs set. I see no good reason not to do this for the currency-tokens, just as I see no good reason not to use Bitcoin’s proof-of-work mining scheme. I’ve never seen a proof-of-stake proposal that achieved Kaldor-Hicks, and in fact my guess is that it is this challenge (KH) that primarily motivated Satoshi to choose his mining scheme (which is Pareto).
+The reputation-tokens are more complex, but the obvious choice is to distribute them to individuals in proportion to what they sacrificed to create the software.
 
 
 ### Have you seen a similar effort from some CS guys at Princeton? Wonder if they're solving the same problems...
@@ -331,7 +333,7 @@ Update: The long awaited [paper](http://users.encs.concordia.ca/~clark/papers/20
 
 ### How do I contact you?
 Hivemind@gmail.com  
-https://twitter.com/Hivemind  
+https://twitter.com/Truthcoin  
 Please share your opinion, and your questions so the FAQ can grow!
 
 ### How on Earth do you pronounce "Sztorc"?
