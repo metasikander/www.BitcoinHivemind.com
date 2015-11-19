@@ -18,11 +18,13 @@ Everyone asks: How are the outcomes calculated? "Who decides?" Here are some of 
 
 The real-world problem Truthcoin aims to solve. This was the first half of a talk I gave at the MIT Bitcoin club in January 2015.
 
-## [Value of a Truthcoin](truthcoin-valuable.pdf)
+
+## [Value of a VoteCoin](hivemind-valuable.pdf)
 
 On the potential Return available to contributing investors / programmers.
 
 <!--
+
 
 This presentation is confusing way more people than it is helping.
 
