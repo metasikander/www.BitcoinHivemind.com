@@ -48,6 +48,10 @@ Again, PMs are misunderstood. Please don't embarrass yourself by making one of t
 Individuals constantly worry about 'market manipulation' (in the same way that our ancestors worried about witchcraft...). If blockchain-transparency isn't enough for you, try reading this.
 
 
+## [6 - Assassination Markets](6_Crime_Markets.pdf)
+
+While someone will probably figure out "how to use Bitcoin to murder someone" eventually, I'm happy to say that Hivemind will, if anything, only *decrease* total murdering.
+
 
 
 
