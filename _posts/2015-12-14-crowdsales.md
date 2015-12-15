@@ -57,7 +57,7 @@ These conditions have yet to be met, but I have [high hopes for a few projects](
 
 ### Bitcoin Testnet + Lies = ScamCoin
 
-What is the point of all this? Well, there's no need to crowdsale something that will be worth zero, which, so far, includes everything on CoinMarketCap that isn't Bitcoin. ( LiteCoin and DogeCoin may have limited money-laundering and/or entertainment value. )
+What is the point of all this? Well, there's no need to crowdsale something that will be worth zero, which, so far, includes everything on CoinMarketCap that isn't Bitcoin. ( LiteCoin and DogeCoin [may, temporarily, have limited money-laundering and/or entertainment value](http://www.truthcoin.info/blog/altcoins-are-not-coins/). )
 
 The thing is, we already have something called Bitcoin Testnet (currently, the second most important blockchain), which lets users screw around and test new features. Users can even fork the Testnet and run their own private testnet! However, no one expects Testnet-BTC to ever be worth any money (aka, any <b>*favors*</b>).
 
@@ -89,7 +89,7 @@ Ok, but let's assume you have a legitimate blockchain-business which could make 
 
 ### 1. Open Source: Nonexistent Revenues, [Benevolent Dictators](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)
 
-Even **assuming you <i>could</i> get revenues** from something which is, by definition, free (ie, an 'equitycoin'), **"investing" in open source <i>software</i> isn't actually possible**.
+Even **assuming you <i>could</i> get revenues** from something which is, by definition, free (ie, assume a viable 'equitycoin'), **"investing" in open source <i>software</i> isn't actually possible**.
 
 #### Specific Innovation Support is Impossible
 
@@ -107,7 +107,7 @@ Open source software exists in the minds of programmers, who temporarily express
 
 #### Who's in charge around here?
 
-There is only one way to successfully invest in open source software: invest in a person you trust. This person will have all the power over the software, and you'll have to basically just hope they won't screw you.
+There is only one way to successfully invest in open source software: invest in a developer you trust. This person will have all the power over the software, and you'll have to basically just hope they won't screw you.
 
 Figuring out whom to trust is very difficult, and almost always involves extensive personal Skyping and/or international flights for face-to-face meetings. **Such activities do not scale, and are the opposite of the crowdsale's comfort-zone of "get small donations from a lot of people".**
 
