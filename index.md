@@ -81,6 +81,7 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 1. <a href="/papers/3_PM_Applications.pdf">Applications and Use-Cases</a>
 1. <a href="/papers/4_PM_Myths.pdf">Prediction Market Myths</a>
 1. <a href="/papers/5_PM_Manipulation.pdf">Manipulation of Prediction Markets</a>
+1. <a href="/papers/6_Crime_Markets.pdf">Non-Usefulness of Prediction Markets for Assassination and Crime</a>
 
 
 ## [Presentations](/presentations/)
