@@ -19,7 +19,7 @@ In my view, **every asset is a database for favors**.
 
 So, if you buy stock in a company, and the company does well, that company will/should reward your for your timely assistance. It is comparable to you "doing a favor" for a friend, and then that friend striking it rich: you now have a permanent invite to his yacht parties.
 
-This explains "money" in general, which aims to simply accomplish this [on a larger scale, ideally the largest possible](www.truthcoin.info/blog/basics/#what-is-bitcoin-anyway).
+This explains "money" in general, which aims to simply accomplish this [on a larger scale, ideally the largest possible](http://www.truthcoin.info/blog/basics/#what-is-bitcoin-anyway).
 
 When you earn money, you essentially "do a favor for Everyone" and We **recognize** that favor (by paying you), and you can "redeem that favor" later (by spending your money).
 
@@ -59,7 +59,7 @@ These conditions have yet to be met, but I have [high hopes for a few projects](
 
 What is the point of all this? Well, there's no need to crowdsale something that will be worth zero, which, so far, includes everything on CoinMarketCap that isn't Bitcoin. ( LiteCoin and DogeCoin may have limited money-laundering and/or entertainment value. )
 
-The thing is, we already have something called Bitcoin Testnet (currently, the second most important blockchain), which lets users screw around and test new features. Users can even fork the Testnet and run their own private testnet! However, no one expects Testnet-BTC to ever be worth any money.
+The thing is, we already have something called Bitcoin Testnet (currently, the second most important blockchain), which lets users screw around and test new features. Users can even fork the Testnet and run their own private testnet! However, no one expects Testnet-BTC to ever be worth any money (aka, any <b>*favors*</b>).
 
 The only difference between Bitcoin Testnet and BitShares, PeerCoin or Ethereum, is that suckers are **fraudulently misled into believing that the coin can hold value**. No matter how good the coin is, it cannot do this better than Bitcoin.
 
