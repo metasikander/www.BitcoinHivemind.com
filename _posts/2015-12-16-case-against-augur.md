@@ -33,9 +33,9 @@ However, if you are interested, here is a (rough) timeline of the key events lea
 
 This essay will be in three sections:
 
-1. Why Augur would have no future, and people would be better off with other projects (namely, Roger Ver's project Hivemind, but to a lesser extent Zack Hess' Flying Fox and Schebastian's unfinished work) or with starting from scratch.
-2. The numerous lies and misrepresentation of the fraudulent Augur leadership team.
-3. My own personal interpretation perspective on the factors driving Augur's $5 million dollar crowdsale.
+1. Why [Augur has no future](#part-one---augur-has-no-future), and people would be better off with other projects (namely, Roger Ver's project Hivemind, but to a lesser extent Zack Hess' Flying Fox and Schebastian's unfinished work) or with starting from scratch.
+2. The numerous lies and misrepresentation of [the fraudulent Augur leadership team](#part-two--the-augur-leadership-team-are-frauds).
+3. My own personal interpretation perspective on the factors driving [Augur's $5 million dollar crowdsale](#part-three---on-the-millions-raised-by-the-augur-crowdsale).
 
 ## Part One - Augur Has No Future
 
@@ -241,7 +241,7 @@ Ok, but even if they *did* have any idea what they're doing, there's still a hug
 
 
 
-## The Augur Leadership Team Are Frauds
+## Part Two - The Augur Leadership Team Are Frauds
 
 My hat is off to the Augur marketing team...they've done a great job.
 
