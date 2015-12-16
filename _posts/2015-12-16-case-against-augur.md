@@ -23,9 +23,9 @@ So here it is: the case against Augur.
 
 ### First, Some Background
 
-If you don't know anything about Augur, there's no need for you to continue reading at all.
+If you don't know anything about Augur, there's really no need for you to continue reading at all.
 
-However, if you are interested, here is a timeline of the key events leading up to this point:
+However, if you are interested, here is a (rough) timeline of the key events leading up to this point:
 
 ![Eth](/images/augur-timeline.png) 
 
