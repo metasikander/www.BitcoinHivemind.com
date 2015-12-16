@@ -9,7 +9,7 @@ title: Papers
 
 For those who want the "how it works" details:
 
-## [Truthcoin Whitepaper](hivemind-whitepaper.pdf)
+## [Truthcoin Whitepaper](truthcoin-whitepaper.pdf)
 
 My whitepaper describing a software protocol which creates and manages decentralized prediction markets (PMs).
 

@@ -70,7 +70,7 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 ### Technicals
 
-- <a href="/papers/hivemind-whitepaper.pdf">Hivemind Whitepaper</a>
+- <a href="/papers/truthcoin-whitepaper.pdf">Hivemind Whitepaper</a>
 - <a href="/papers/LogMSR_Demo.xlsx">Excel File: Trading Under MSRs</a>
 
 
