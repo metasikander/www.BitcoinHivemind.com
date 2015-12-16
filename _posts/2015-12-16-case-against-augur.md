@@ -121,6 +121,12 @@ You -the layperson reading this- can appreciate, I hope, what it is like to work
 
 And then some people just do something else "because usually it's done like this" or "people [were complaining](http://forums.imore.com/attachments/iphone-6-plus/67296d1412450000t-s-so-huge-frank-underwood-eye-roll-gif.gif) about {misunderstood feature du jour}". And you *know* that the real reason is just because Jack wants to weasel his way into taking some intellectual credit for the idea.
 
+Some of it is almost too painful to explain: Jack is certain that he proposed the LS-LMSR, even though Casey discussed it with me [months before I met Jack](http://forum.truthcoin.info/index.php/topic,21.msg268.html#msg268), he believes that he renamed VoteCoins to Reputation and shortened it to "rep", even though [my original Dec 2nd, 2013 code](https://github.com/psztorc/Truthcoin/commit/d54e6216b28674e79f53b5d99dc226a896120eb3) has "Rep" everywhere, as do all versions of the whitepaper refer to it as "the reputation vector", he believes that he discovered a "flaw" where the mechanism "stops working when less than 50% of the voters are honest". Sometimes, I don't know what to say.
+
+I am sure that Jack [is sincere in believing these things, even though they are completely untrue](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), and I am sorry to have to point it out.
+
+Speaking of sincere-but-ridiculous...
+
 <!--
 
 #### Science vs. Engineering
@@ -134,7 +140,6 @@ If someone challenges your beliefs ("academic" world), you should take the chall
 However, if Antonio Stradivari builds a violin (or Satoshi Nakamoto builds a protocol), you really ought to stop and think (preferably a few times) before hacking it apart for spare parts so that you can take your own first try.
 
 -->
-
 
 
 
