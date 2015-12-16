@@ -38,7 +38,6 @@ This essay will be in three sections:
 3. My own personal interpretation perspective on the factors driving Augur's $5 million dollar crowdsale.
 
 ## Part One - Augur Has No Future
-> It's hard to screw up any more than this.
 
 
 ### 1. Who am I to criticize Augur, you might ask? Well, I am the creator of Augur!
@@ -243,7 +242,6 @@ Ok, but even if they *did* have any idea what they're doing, there's still a hug
 
 
 ## The Augur Leadership Team Are Frauds
-> It would probably be faster to count up the honest statements.
 
 My hat is off to the Augur marketing team...they've done a great job.
 
