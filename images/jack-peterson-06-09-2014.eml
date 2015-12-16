@@ -1,0 +1,607 @@
+Delivered-To: truthcoin@gmail.com
+Received: by 10.66.90.41 with SMTP id bt9csp3020pab;
+        Sat, 6 Sep 2014 22:53:26 -0700 (PDT)
+X-Received: by 10.66.120.176 with SMTP id ld16mr36207169pab.84.1410069206370;
+        Sat, 06 Sep 2014 22:53:26 -0700 (PDT)
+Return-Path: <jack@dyffy.com>
+Received: from mail-pd0-f172.google.com (mail-pd0-f172.google.com [209.85.192.172])
+        by mx.google.com with ESMTPS id es4si11415869pbb.195.2014.09.06.22.53.25
+        for <truthcoin@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 06 Sep 2014 22:53:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of jack@dyffy.com designates 209.85.192.172 as permitted sender) client-ip=209.85.192.172;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of jack@dyffy.com designates 209.85.192.172 as permitted sender) smtp.mail=jack@dyffy.com
+Received: by mail-pd0-f172.google.com with SMTP id v10so5730631pde.31
+        for <truthcoin@gmail.com>; Sat, 06 Sep 2014 22:53:25 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:date:from:user-agent:mime-version:to
+         :subject:references:in-reply-to:content-type;
+        bh=0N1sqDwFCmLwVUOjLPVZ51rOGbRoDWpjMfXO2aFkyRE=;
+        b=Siv3B6lDFTlGIxKr+uRrqZiJmnnD+707T/GbsXP1ffOKRFjKbIkWxUE4TOVnXadYh7
+         +o3F8nxe2uNhiHjrH7c0m4eYNwqw/taJbMxTsq5y1XhLt0TZiPjhEIa9tAwH8vQCiNoP
+         XZ+ErG7aJA10ArTl9l+7zYvBB+1VsUsG5F2byNKGGfMSYWYBZH11AUQT+vRgv7x+caJQ
+         GIKIFvP3d8oCvDrID/RU43Ta6R0iF3+Ry9SL55yGLflFPhVOFPo5tAJb8eFNuW09oKUx
+         aSNzitHN/AeTH6dyx8uo5WeIamz4CsjpgMFMR6LFQGfgdr54EVEz88iKpfgjc9sHNzan
+         6v1g==
+X-Gm-Message-State: ALoCoQl0RB8BXT8ojhpQX6mUaItbeEL1JXThWYzt0j7iiFc2oedOPwo9BHL9kRkyns4AhEKrhzQR
+X-Received: by 10.67.15.71 with SMTP id fm7mr35112378pad.45.1410069205742;
+        Sat, 06 Sep 2014 22:53:25 -0700 (PDT)
+Return-Path: <jack@dyffy.com>
+Received: from ?IPv6:2601:7:1380:5a9:e897:8e63:ad78:7ff9? ([2601:7:1380:5a9:e897:8e63:ad78:7ff9])
+        by mx.google.com with ESMTPSA id nl2sm5692005pdb.83.2014.09.06.22.53.24
+        for <truthcoin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 06 Sep 2014 22:53:25 -0700 (PDT)
+Message-ID: <540BF2D2.6010502@dyffy.com>
+Date: Sat, 06 Sep 2014 22:53:22 -0700
+From: Jack Peterson <jack@dyffy.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.1.0
+MIME-Version: 1.0
+To: Truth Coin <truthcoin@gmail.com>
+Subject: Fwd: Update for Joe
+References: <540962B6.9000104@dyffy.com>
+In-Reply-To: <540962B6.9000104@dyffy.com>
+X-Forwarded-Message-Id: <540962B6.9000104@dyffy.com>
+Content-Type: multipart/alternative;
+ boundary="------------060806020109080807030208"
+
+This is a multi-part message in MIME format.
+--------------060806020109080807030208
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi Paul,
+
+I wanted to pass this along.  I know you have concerns regarding our
+team's technical ability.  (I would as well, in your position.) 
+Attached is an email I sent to Joe recently, describing our technical
+progress thus far.  I think we've really built a lot.  The attached
+email describes what we made, and gives links to the relevant source code.
+
+Also, you may have seen this, but here is my Github account:
+https://github.com/tensorjack
+
+My hope is that you can see from the variety of things I've built that I
+am a competent developer.  There is even an open-source C++ program -- a
+neural network called "thinker" that I wrote in grad school.
+
+We're going to get Truthcoin built!  Just a few things to clear out of
+our way first, then we'll be off and running.  Thanks for being
+patient.  I really am hoping we can work together.
+
+- Jack
+
+
+-------- Forwarded Message --------
+Subject: 	Update for Joe
+Date: 	Fri, 05 Sep 2014 00:13:58 -0700
+From: 	Jack Peterson <jack@dyffy.com>
+To: 	Matt Liston <matt@dyffy.com>
+
+
+
+Hi Joe,
+
+Matt asked me to pass along an update, describing the technical work
+we've done so far.  A couple of the sites I'm describing below have been
+taken off-line, since we've moved away from these plans.  However, if
+you would like to see the off-line sites in action, just let me know! 
+(I think they'd require just a few hours of work each to restore to
+public, working condition.)
+
+"CryptoCab Exchange."  Our original plan, which Matt and I first
+outlined to you in San Francisco, was to build a decentralized currency
+exchange, embedded in a social network.  The idea was that it would be
+an exchange for Bitcoins/altcoins that would not require you to trust
+the website operator.  The actual decentralization mechanism involved
+two key ingredients:
+
+1. A lightweight JavaScript application, operating entirely within the
+web browser, that securely creates, cryptographically signs, and sends
+transactions between users.  This application was complete (although not
+fully unit-tested).
+
+2. Ripple, the low-level transactions protocol, upon which the
+JavaScript application ran.
+
+The majority of this site was already complete when we had coffee with
+you, and we walked you through it.  The site functioned well, and, in
+fact, the creators of the Ripple protocol (Ripple Labs) were so
+impressed with our work that they offered us a small ($50k) investment
+through their startup incubator.
+
+Source code: https://bitbucket.org/tinybike/cryptocab
+
+"CryptoCab SwissArmyKnife."  Matt originally had a separate group
+working on Dyffy, his idea for an altcoin betting game.  However, this
+other group turned out to be technically incompetent, and they were
+unable to make any real headway into the project.  It seemed to me they
+had been going about the project in the wrong way, so we decided it
+would be worth me taking a crack at it.
+
+I was wrapping up the "CryptoCab Exchange" part of the project ahead of
+schedule, so we decided to try and merge the altcoin betting game with
+the currency exchange, and launch them together.  The two ideas struck
+us as natural complements: a currency exchange attached to something
+roughly akin to a derivatives exchange.  There were two different kinds
+of betting games included in this site -- one in which the user bet on
+whether the price of a coin would rise or fall, and another that pitted
+different coins against each other.  I also added an additional game to
+this site in which users were shown pictures of two of their Facebook
+friends, and asked to click on the friend that was "awesomer".  (Think
+"hot-or-not", but with people you know personally.)
+
+I finished writing thorough unit tests for this site in early July.  The
+site at this point included:
+
+- a decentralized cryptocurrency exchange
+- a social network
+- the "rise or fall" betting game
+- the "coin vs coin" betting game
+- custom-built data pipelines feeding real-time data to the games:
+    Grapple: https://github.com/tensorjack/grapple
+    Surge: https://github.com/tensorjack/surge
+- the which-friend-is-awesomer game
+
+(You can see why this version of the site ultimately got labeled
+"SwissArmyKnife"!)
+
+Source code: https://github.com/tensorjack/CryptoCab/tree/swissarmyknife
+
+As suggested by its nickname, as the five of us were playtesting the
+"CryptoCab SwissArmyKnife" site, we came to the realization that it was
+simply too complicated; too many disparate features attached to the same
+site.
+
+Our test site, on the crypto.cab domain, had always been hosted with a
+company called Linode; I'd worked with them before on other projects.  A
+lingering issue with the Exchange was security; specifically, the issue
+of Distributed Denial of Service (DDoS) attacks.  Although most sites
+are to some extent vulnerable to DDoS, exchanges in general are
+notoriously favored targets, due to the way that an exchange's currency
+prices can be manipulated by interruptions its service.  We had been in
+talks with a well-known security hosting company, FireHost, to host our
+site.  Initially, they'd been very receptive, but ultimately, they felt
+that hosting a Bitcoin-related site -- particularly one that involved an
+exchange -- was simply too risky for them.  I contacted a number of
+other information security firms, but no one was willing to host or
+protect our site from DDoS.
+
+This put us in a bit of a bind, as cryptocurrency exchanges can be quite
+lucrative, and our plan had been to use the exchange's revenue as a sort
+of base, which we could use to build other, more novel, applications. 
+We thought the plan could still perhaps be salvaged -- I was talking to
+two more security groups that had not yet rejected us -- but we decided
+in the meantime to jump to a new, somewhat more risky plan.
+
+"Dyffy SoundCloud."  As I'd been building CryptoCab, Matt was making
+deep forays into the altcoin scene, and eventually got himself plugged
+in to a crypto "pump-n-dump" crew.  Most of them were anonymous,
+Internet-handle-only types -- their leader's name was FireInYourHole, or
+"Fire" to his friends -- and we interacted with them via IRC.  Fire's
+crew was behind an altcoin called "Roxcoin", a me-too Bitcoin knockoff
+with plans for music-related tie-ins.  At the time, it was the single
+most heavily traded altcoin.  However, it didn't yet have any of these
+music-related features, and it was starting to get hammered by the
+community because of this.
+
+Matt came up with a way to give them what they wanted: we could make our
+first "Dyffy" implementation some kind of betting game based on the
+SoundCloud music-sharing service, and could use Roxcoin (along with, of
+course, Bitcoin) as its internal currency.  Fire and his crew were
+thrilled about this -- as with all cryptocurrencies, Roxcoin's value
+should increase with increased use, so they all expected to make a
+bundle off this, as they were all holding a great deal of Roxcoins.  In
+fact, their vast stores of Roxcoins (and Bitcoins) were the source of
+the great fluctuations in the currency's price: they manipulated the
+price in order to cause public buy/sell stampedes...and always left the
+public holding the bag.
+
+What we got from them was a little more subtle: we got access to their
+crew, and a perch from which we could view the altcoin market, and watch
+it respond as Roxcoin's price was manipulated.  Matt stayed to study the
+chaos; Scott and I went to build "Dyffy SoundCloud".  Scott had ridden
+his motorcycle to Oregon by that time, so he and I worked together in
+person for the first time, as we hammered out the details of the site. 
+The game worked like this: the site would select a SoundCloud track at
+random, from a list of what it guessed were the most popular SoundCloud
+tracks.  Users would listen to the track, and place bets on the number
+of additional playbacks the song would receive over some interval;
+whoever guessed closest won the pot.  This site is still live:
+
+http://dyffy.herokuapp.com
+
+(sign in, then click on "Soundcloud" on the top bar -- there is also a
+dice game that Scott designed a little later on)
+
+After making the site, we came to the disheartening -- and, in
+retrospect, perhaps obvious -- realization that SoundCloud just did not
+make for a very engaging betting game.  Matt had also come to a negative
+conclusion regarding Fire and his crew: they seemed to view us as
+marks.  (Worse than marks, really.  Marks with potential access to
+money!)  So, we moved on.
+
+Source code: https://github.com/tensorjack/dyffy
+
+"CryptoCab Simple."  We eventually did get a positive response from one
+of the security companies we'd contacted regarding DDoS protection, a
+company that specialized in only that: DOSArrest.  That put the exchange
+back on the table.  However, Matt's recent deep exposure to the altcoin
+market made him realize how badly it needed a shorting mechanism, and
+how much interest there was in using one, were it made available.  It
+didn't even have to be an altcoin game -- just some way of shorting
+altcoins!
+
+We were feeling a bit anxious at this point, as it was now late July,
+and we still hadn't actually launched a product.  We'd learned a ton,
+and written a huge amount of code ("CryptoCab SwissArmyKnife" has about
+88,000 lines of code, and "Dyffy SoundCloud" has another 86,000 lines of
+mostly different code -- although these figures do, admittedly, include
+a fair amount of library code).  But no product, no revenue, no users --
+and the altcoin market seemed to be screaming out for a shorting mechanism.
+
+Since we'd encountered difficulty explaining the more involved games to
+people, we ultimately decided to strip out the simplest of the games
+from the old "CryptoCab SwissArmyKnife" site, where users bet if a
+coin's price rises or falls over some fixed interval.  Place it on a
+nice clean site by itself, wrap it in a social net, and this would be
+the site we'd launch with.  This seemed like a very simple task -- clean
+up the site a bit, add some user-friendliness features, and launch!  The
+main task, I thought, was finishing up the "coin bridge" -- the
+interface software linking our Bitcoin daemon to our local database.
+
+It didn't take long to get the coin bridge ready (finished version here:
+https://github.com/tensorjack/coinbridge), and, a week or so in, things
+were ready to roll.  We were playtesting one night, and Connor
+experienced a hair-raising bug: he tried to place a bet, and coins were
+deducted from his wallet...but never landed in the betting ledger.
+
+This was alarming.  We were using a proper relational database
+management system (RDBMS), PostgreSQL, precisely to avoid this sort of
+problem.  With an RDBMS, you're able to divide your queries to the
+database into distinct transactions, and they offer a wonderful property
+called "atomicity": they guarantee that either the whole transaction
+succeeds, or the whole transaction fails.  The two actions 1) Deduction
+from Connor's wallet, and 2) Insertion into the betting table, were
+supposed to bundled into a single transaction.  And yet, apparently, the
+software I'd written was treating them as two separate transactions --
+clearly, not acceptable, if we were handling real money!
+
+I stayed up for most of the night, trying to reproduce the problem (and
+succeeding), and trying to solve the problem (and failing).  The issue
+seemed to be with the database driver I was using to connect the
+website's backend (Python) to the PostgreSQL database, but nothing I
+tried over the next several days fixed it.  (I even resorted to calling
+my father, a database administrator, and pleading for help -- but he
+couldn't figure it out either.)  Since this problem Needed To Be Fixed,
+I decided to fix it in a way that seemed ridiculous on first glance, but
+which I realized would definitely fix the problem: I would just turn
+every transaction into a single gigantic query.
+
+Fortunately, PostgreSQL has a built-in procedural language (PgSQL) that
+makes this something less than complete torture.  So, over the next
+week, I taught myself PgSQL, then rewrote our entire betting engine in
+it.  If you're curious, the outcome of this very intense week can be
+found in:
+
+https://github.com/tensorjack/CryptoCab/blob/master/app/sql/functions.sql
+
+At last, this fixed the problem!  And, it was also faster and more
+scalable than the old version, as all the logic was now embedded
+directly in the database.  Proud of finally getting it to work, I showed
+the fixed version of the site to the other guys:
+
+https://crypto.cab
+
+Source code: https://github.com/tensorjack/CryptoCab
+
+Afterwards, Matt asked me, "Jack, what would you think about building
+Truthcoin?"  Truthcoin blows all this other stuff out of the water, so
+now we're building Truthcoin -- code name "Project Prometheus":
+
+https://github.com/tensorjack/Prometheus
+
+By the way, I just wanted to say, thanks for funding us.  It's been a
+blast so far, and I feel really lucky to be in this position.  I think
+we're headed somewhere great :)
+
+- Jack
+
+
+
+
+--------------060806020109080807030208
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Hi Paul,<br>
+    <br>
+    I wanted to pass this along.  I know you have concerns regarding our
+    team's technical ability.  (I would as well, in your position.) 
+    Attached is an email I sent to Joe recently, describing our
+    technical progress thus far.  I think we've really built a lot.  The
+    attached email describes what we made, and gives links to the
+    relevant source code.<br>
+    <br>
+    Also, you may have seen this, but here is my Github account:
+    <a class="moz-txt-link-freetext" href="https://github.com/tensorjack">https://github.com/tensorjack</a><br>
+    <br>
+    My hope is that you can see from the variety of things I've built
+    that I am a competent developer.  There is even an open-source C++
+    program -- a neural network called "thinker" that I wrote in grad
+    school.<br>
+    <br>
+    We're going to get Truthcoin built!  Just a few things to clear out
+    of our way first, then we'll be off and running.  Thanks for being
+    patient.  I really am hoping we can work together.<br>
+    <br>
+    - Jack<br>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Forwarded Message --------
+      <table class="moz-email-headers-table" border="0" cellpadding="0"
+        cellspacing="0">
+        <tbody>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Subject:
+            </th>
+            <td>Update for Joe</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Date: </th>
+            <td>Fri, 05 Sep 2014 00:13:58 -0700</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">From: </th>
+            <td>Jack Peterson <a class="moz-txt-link-rfc2396E" href="mailto:jack@dyffy.com">&lt;jack@dyffy.com&gt;</a></td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">To: </th>
+            <td>Matt Liston <a class="moz-txt-link-rfc2396E" href="mailto:matt@dyffy.com">&lt;matt@dyffy.com&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <pre>Hi Joe,
+
+Matt asked me to pass along an update, describing the technical work
+we've done so far.  A couple of the sites I'm describing below have been
+taken off-line, since we've moved away from these plans.  However, if
+you would like to see the off-line sites in action, just let me know! 
+(I think they'd require just a few hours of work each to restore to
+public, working condition.)
+
+"CryptoCab Exchange."  Our original plan, which Matt and I first
+outlined to you in San Francisco, was to build a decentralized currency
+exchange, embedded in a social network.  The idea was that it would be
+an exchange for Bitcoins/altcoins that would not require you to trust
+the website operator.  The actual decentralization mechanism involved
+two key ingredients:
+
+1. A lightweight JavaScript application, operating entirely within the
+web browser, that securely creates, cryptographically signs, and sends
+transactions between users.  This application was complete (although not
+fully unit-tested).
+
+2. Ripple, the low-level transactions protocol, upon which the
+JavaScript application ran.
+
+The majority of this site was already complete when we had coffee with
+you, and we walked you through it.  The site functioned well, and, in
+fact, the creators of the Ripple protocol (Ripple Labs) were so
+impressed with our work that they offered us a small ($50k) investment
+through their startup incubator.
+
+Source code: <a class="moz-txt-link-freetext" href="https://bitbucket.org/tinybike/cryptocab">https://bitbucket.org/tinybike/cryptocab</a>
+
+"CryptoCab SwissArmyKnife."  Matt originally had a separate group
+working on Dyffy, his idea for an altcoin betting game.  However, this
+other group turned out to be technically incompetent, and they were
+unable to make any real headway into the project.  It seemed to me they
+had been going about the project in the wrong way, so we decided it
+would be worth me taking a crack at it.
+
+I was wrapping up the "CryptoCab Exchange" part of the project ahead of
+schedule, so we decided to try and merge the altcoin betting game with
+the currency exchange, and launch them together.  The two ideas struck
+us as natural complements: a currency exchange attached to something
+roughly akin to a derivatives exchange.  There were two different kinds
+of betting games included in this site -- one in which the user bet on
+whether the price of a coin would rise or fall, and another that pitted
+different coins against each other.  I also added an additional game to
+this site in which users were shown pictures of two of their Facebook
+friends, and asked to click on the friend that was "awesomer".  (Think
+"hot-or-not", but with people you know personally.)
+
+I finished writing thorough unit tests for this site in early July.  The
+site at this point included:
+
+- a decentralized cryptocurrency exchange
+- a social network
+- the "rise or fall" betting game
+- the "coin vs coin" betting game
+- custom-built data pipelines feeding real-time data to the games:
+    Grapple: <a class="moz-txt-link-freetext" href="https://github.com/tensorjack/grapple">https://github.com/tensorjack/grapple</a>
+    Surge: <a class="moz-txt-link-freetext" href="https://github.com/tensorjack/surge">https://github.com/tensorjack/surge</a>
+- the which-friend-is-awesomer game
+
+(You can see why this version of the site ultimately got labeled
+"SwissArmyKnife"!)
+
+Source code: <a class="moz-txt-link-freetext" href="https://github.com/tensorjack/CryptoCab/tree/swissarmyknife">https://github.com/tensorjack/CryptoCab/tree/swissarmyknife</a>
+
+As suggested by its nickname, as the five of us were playtesting the
+"CryptoCab SwissArmyKnife" site, we came to the realization that it was
+simply too complicated; too many disparate features attached to the same
+site.
+
+Our test site, on the crypto.cab domain, had always been hosted with a
+company called Linode; I'd worked with them before on other projects.  A
+lingering issue with the Exchange was security; specifically, the issue
+of Distributed Denial of Service (DDoS) attacks.  Although most sites
+are to some extent vulnerable to DDoS, exchanges in general are
+notoriously favored targets, due to the way that an exchange's currency
+prices can be manipulated by interruptions its service.  We had been in
+talks with a well-known security hosting company, FireHost, to host our
+site.  Initially, they'd been very receptive, but ultimately, they felt
+that hosting a Bitcoin-related site -- particularly one that involved an
+exchange -- was simply too risky for them.  I contacted a number of
+other information security firms, but no one was willing to host or
+protect our site from DDoS.
+
+This put us in a bit of a bind, as cryptocurrency exchanges can be quite
+lucrative, and our plan had been to use the exchange's revenue as a sort
+of base, which we could use to build other, more novel, applications. 
+We thought the plan could still perhaps be salvaged -- I was talking to
+two more security groups that had not yet rejected us -- but we decided
+in the meantime to jump to a new, somewhat more risky plan.
+
+"Dyffy SoundCloud."  As I'd been building CryptoCab, Matt was making
+deep forays into the altcoin scene, and eventually got himself plugged
+in to a crypto "pump-n-dump" crew.  Most of them were anonymous,
+Internet-handle-only types -- their leader's name was FireInYourHole, or
+"Fire" to his friends -- and we interacted with them via IRC.  Fire's
+crew was behind an altcoin called "Roxcoin", a me-too Bitcoin knockoff
+with plans for music-related tie-ins.  At the time, it was the single
+most heavily traded altcoin.  However, it didn't yet have any of these
+music-related features, and it was starting to get hammered by the
+community because of this.
+
+Matt came up with a way to give them what they wanted: we could make our
+first "Dyffy" implementation some kind of betting game based on the
+SoundCloud music-sharing service, and could use Roxcoin (along with, of
+course, Bitcoin) as its internal currency.  Fire and his crew were
+thrilled about this -- as with all cryptocurrencies, Roxcoin's value
+should increase with increased use, so they all expected to make a
+bundle off this, as they were all holding a great deal of Roxcoins.  In
+fact, their vast stores of Roxcoins (and Bitcoins) were the source of
+the great fluctuations in the currency's price: they manipulated the
+price in order to cause public buy/sell stampedes...and always left the
+public holding the bag.
+
+What we got from them was a little more subtle: we got access to their
+crew, and a perch from which we could view the altcoin market, and watch
+it respond as Roxcoin's price was manipulated.  Matt stayed to study the
+chaos; Scott and I went to build "Dyffy SoundCloud".  Scott had ridden
+his motorcycle to Oregon by that time, so he and I worked together in
+person for the first time, as we hammered out the details of the site. 
+The game worked like this: the site would select a SoundCloud track at
+random, from a list of what it guessed were the most popular SoundCloud
+tracks.  Users would listen to the track, and place bets on the number
+of additional playbacks the song would receive over some interval;
+whoever guessed closest won the pot.  This site is still live:
+
+<a class="moz-txt-link-freetext" href="http://dyffy.herokuapp.com">http://dyffy.herokuapp.com</a>
+
+(sign in, then click on "Soundcloud" on the top bar -- there is also a
+dice game that Scott designed a little later on)
+
+After making the site, we came to the disheartening -- and, in
+retrospect, perhaps obvious -- realization that SoundCloud just did not
+make for a very engaging betting game.  Matt had also come to a negative
+conclusion regarding Fire and his crew: they seemed to view us as
+marks.  (Worse than marks, really.  Marks with potential access to
+money!)  So, we moved on.
+
+Source code: <a class="moz-txt-link-freetext" href="https://github.com/tensorjack/dyffy">https://github.com/tensorjack/dyffy</a>
+
+"CryptoCab Simple."  We eventually did get a positive response from one
+of the security companies we'd contacted regarding DDoS protection, a
+company that specialized in only that: DOSArrest.  That put the exchange
+back on the table.  However, Matt's recent deep exposure to the altcoin
+market made him realize how badly it needed a shorting mechanism, and
+how much interest there was in using one, were it made available.  It
+didn't even have to be an altcoin game -- just some way of shorting
+altcoins!
+
+We were feeling a bit anxious at this point, as it was now late July,
+and we still hadn't actually launched a product.  We'd learned a ton,
+and written a huge amount of code ("CryptoCab SwissArmyKnife" has about
+88,000 lines of code, and "Dyffy SoundCloud" has another 86,000 lines of
+mostly different code -- although these figures do, admittedly, include
+a fair amount of library code).  But no product, no revenue, no users --
+and the altcoin market seemed to be screaming out for a shorting mechanism.
+
+Since we'd encountered difficulty explaining the more involved games to
+people, we ultimately decided to strip out the simplest of the games
+from the old "CryptoCab SwissArmyKnife" site, where users bet if a
+coin's price rises or falls over some fixed interval.  Place it on a
+nice clean site by itself, wrap it in a social net, and this would be
+the site we'd launch with.  This seemed like a very simple task -- clean
+up the site a bit, add some user-friendliness features, and launch!  The
+main task, I thought, was finishing up the "coin bridge" -- the
+interface software linking our Bitcoin daemon to our local database.
+
+It didn't take long to get the coin bridge ready (finished version here:
+<a class="moz-txt-link-freetext" href="https://github.com/tensorjack/coinbridge">https://github.com/tensorjack/coinbridge</a>), and, a week or so in, things
+were ready to roll.  We were playtesting one night, and Connor
+experienced a hair-raising bug: he tried to place a bet, and coins were
+deducted from his wallet...but never landed in the betting ledger.
+
+This was alarming.  We were using a proper relational database
+management system (RDBMS), PostgreSQL, precisely to avoid this sort of
+problem.  With an RDBMS, you're able to divide your queries to the
+database into distinct transactions, and they offer a wonderful property
+called "atomicity": they guarantee that either the whole transaction
+succeeds, or the whole transaction fails.  The two actions 1) Deduction
+from Connor's wallet, and 2) Insertion into the betting table, were
+supposed to bundled into a single transaction.  And yet, apparently, the
+software I'd written was treating them as two separate transactions --
+clearly, not acceptable, if we were handling real money!
+
+I stayed up for most of the night, trying to reproduce the problem (and
+succeeding), and trying to solve the problem (and failing).  The issue
+seemed to be with the database driver I was using to connect the
+website's backend (Python) to the PostgreSQL database, but nothing I
+tried over the next several days fixed it.  (I even resorted to calling
+my father, a database administrator, and pleading for help -- but he
+couldn't figure it out either.)  Since this problem Needed To Be Fixed,
+I decided to fix it in a way that seemed ridiculous on first glance, but
+which I realized would definitely fix the problem: I would just turn
+every transaction into a single gigantic query.
+
+Fortunately, PostgreSQL has a built-in procedural language (PgSQL) that
+makes this something less than complete torture.  So, over the next
+week, I taught myself PgSQL, then rewrote our entire betting engine in
+it.  If you're curious, the outcome of this very intense week can be
+found in:
+
+<a class="moz-txt-link-freetext" href="https://github.com/tensorjack/CryptoCab/blob/master/app/sql/functions.sql">https://github.com/tensorjack/CryptoCab/blob/master/app/sql/functions.sql</a>
+
+At last, this fixed the problem!  And, it was also faster and more
+scalable than the old version, as all the logic was now embedded
+directly in the database.  Proud of finally getting it to work, I showed
+the fixed version of the site to the other guys:
+
+<a class="moz-txt-link-freetext" href="https://crypto.cab">https://crypto.cab</a>
+
+Source code: <a class="moz-txt-link-freetext" href="https://github.com/tensorjack/CryptoCab">https://github.com/tensorjack/CryptoCab</a>
+
+Afterwards, Matt asked me, "Jack, what would you think about building
+Truthcoin?"  Truthcoin blows all this other stuff out of the water, so
+now we're building Truthcoin -- code name "Project Prometheus":
+
+<a class="moz-txt-link-freetext" href="https://github.com/tensorjack/Prometheus">https://github.com/tensorjack/Prometheus</a>
+
+By the way, I just wanted to say, thanks for funding us.  It's been a
+blast so far, and I feel really lucky to be in this position.  I think
+we're headed somewhere great :)
+
+- Jack
+</pre>
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------060806020109080807030208--
