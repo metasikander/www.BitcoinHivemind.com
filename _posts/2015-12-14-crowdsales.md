@@ -266,7 +266,7 @@ Being a celebrity is, , a gigantic distraction and produces no engineering value
 I mean, why wou---jsuz if...
 ....[Krawisz and Goldstein hodlings](https://www.youtube.com/v/slM9KJArqZc?start=1025&end=1263.2&version=3&autoplay=1)....
 
-Is the community really *thi* ..
+Is [the community really *thi*](https://www.youtube.com/v/T6_30eKQeN8?start=205&end=243&version=3&autoplay=1) ..
 
 \*gasp\*
 \*GASP\*
