@@ -232,7 +232,7 @@ Such a no-brainer.
 
 ![AC](/images/augur-classic.png)
 
-Above: the original Augur whitepaper, written before in mid-2014, when Augur was trying to get me to become their advisor.
+Above: the original Augur whitepaper, written in mid-2014, when Augur was trying to get me to become their advisor.
 
 ### 6. Crowdsale
 
