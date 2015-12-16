@@ -190,7 +190,7 @@ C. Whatever this clueless response from Jeremy Gardner is:
 
 D. The fact that Augur crowdsale required people to publish their real name, despite the fact that the protocol itself has no awareness of a user's identity.
 
-...not exactly [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), right?
+...not exactly [BitTorrent](https://torrentfreak.com/bram-cohen-understands-why-pirates-prefer-bittorrent-over-netflix-131113/), right?
 
 <!--
 
