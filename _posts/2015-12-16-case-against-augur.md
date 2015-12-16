@@ -182,9 +182,12 @@ In other words, Augur is the "permissioned ledger" to Truthcoin's Bitcoin. Hopef
 Contradictions between startups and protocols:
 
 A. Startups can be [sued or fined](http://www.fincen.gov/news_room/nr/html/20150505.html) by the government in which they reside, protocols cannot reside anywhere and cannot be sued or controlled.
+
 B. For security reasons, [all Bitcoin software must be open source](http://www.truthcoin.info/blog/deflation-the-last-word/#puzzle-piece-1-peer-to-peer-banking-means-open-source). However, open source software can be used for free, by definition. The startup must get revenues from non-software sources...but this discourages them from working on improving the software! (Instead, they'd like to make it as confusing to install/use/work-on as possible).
+
 C. Whatever this clueless response from Jeremy Gardner is:
 ![Q](/images/augur-modern.png)
+
 D. The fact that Augur crowdsale required people to publish their real name, despite the fact that the protocol itself has no awareness of a user's identity.
 
 ...not exactly [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), right?
