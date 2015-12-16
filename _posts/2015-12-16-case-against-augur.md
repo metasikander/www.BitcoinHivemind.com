@@ -27,7 +27,7 @@ If you don't know anything about Augur, there's no need for you to continue read
 
 However, if you are interested, here is a timeline of the key events leading up to this point:
 
-
+![Eth](/images/augur-timeline.png) 
 
 ### Agenda
 
