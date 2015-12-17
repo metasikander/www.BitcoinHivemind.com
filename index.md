@@ -91,6 +91,10 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 - <a href="/presentations/info-problems.pdf">Ending the Age of Bullshit</a>
 - [My (mostly related) talk at the Montreal Scalability Conference](https://www.youtube.com/watch?v=TgjrS-BPWDQ&t=25m53s)
 
+## Download
+
+Visit the [Builds Folder](http://107.170.174.203/Builds/) or [Build from Source](https://github.com/bitcoin-hivemind/hivemind)
+
 
 ## Contact
 
