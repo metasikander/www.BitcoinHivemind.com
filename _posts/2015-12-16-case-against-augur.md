@@ -410,7 +410,7 @@ I could do this all day, but here are the three big ones:
 
 1. Jack Peterson, Jeremy Gardner, and Joey Krug misled people into thinking that they were the only ones working on this project, when in reality they were the worst of three "factory workers struggling to assemble a blueprint they didn't fully understand".
 
-2. Augur constantly pitches this system as some kind of startup organization, when it is nothing like a startup organization at all. For example, plan to be "finished" soon, where in reality any cryptosystem would take months, even years of ongoing, attentive work (ideally by tech-loving volunteers) to run smoothly.
+2. Augur constantly pitches this system as some kind of startup organization, when it is nothing like a startup organization at all. For example, they plan to be "finished" soon, where in reality any cryptosystem would take months, even years of ongoing, attentive work (ideally by tech-loving volunteers) to run smoothly.
 
 3. They act like it is a big deal to certain people as advisors, when in reality, these people know almost nothing about what Augur does and are just trying to be supportive in general, or have ulterior motives. Vitalik Buterin, for example, is actually an angel investor in Augur. Crowdsale-victims transferred money from themselves, to Vitalik.
 
@@ -423,7 +423,7 @@ I'm not worried about my personal financial situation, at all. Moreover, the cur
 
 Obviously I am not happy to think that I could have contributed, even indirectly, to this scam, by publishing the ideas which Augur used, as an open proposal (under the GPL and later MIT licenses). Certainly, in my view, they were not the best team for the job, and some of them aren't right for *any* job.
 
-I certainly made an effort to advise people not to participate, which was time consuming, and this advice was (at least, partially) ignored.
+I certainly made an effort to advise people not to participate, which was time-consuming, and this advice was (at least, partially) ignored.
 
 So, those are problems that I do have with their crowdsale.
 
@@ -435,7 +435,7 @@ Here are some other comments:
 
 Augur *claims* to have raised about $5 million.
 
-However, crowdsales usually have 'ringers': rich guys who buy into the crowdsale to make it look good, and are later repaid (a kind of [fraudulent] off-book liability). That money "doesn't count", and the original Augur CEO did take an interest in this tactic, so I am sure that Augur employed it to some extent. It is just something that large IPOs do, even the "real world" of Wall St.
+However, crowdsales usually have 'ringers': rich guys who buy into the crowdsale to make it look good, and are later repaid (a kind of [fraudulent] off-book liability). That money "doesn't count", and the original Augur CEO did take an interest in this tactic, so I am sure that Augur employed it to some extent. It is just something that large IPOs do, even in the "real world" of Wall St.
 
 $5 million isn't really that much. Mastercoin raised $5 million, and it then rose in value to $120 million. It quickly crashed below-the-Dogecoin, and is presently circling the drain of its final destination of zero. Factom achieved an $11 million valuation, somehow, "21" raised $116 million. Look at pirateat40, or a whole host of other MLM schemes, televangelism, Bernie Madoff, US Social Security Trust Fund, etc. who all did way better than $5 million.
 
