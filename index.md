@@ -28,12 +28,17 @@ href="https://purse.io/">Purse.io</a>)
 
 <br>
 
-> "I'd give it a low <a href="http://bitcoinhivemind.com/blog/chance-of-success/">chance of success</a>, but at least it's clever crazy rather
-than stupid crazy. :)"
+> "I'd give it a low <a href="http://bitcoinhivemind.com/blog/chance-of-success/">chance of success</a>, but at least it's clever crazy rather than stupid crazy. :)"
 
 &#45; <a href="https://twitter.com/petertoddbtc"><strong>Peter Todd</strong></a>, Bitcoin core developer, notable skeptic
 (<a href="http://blog.coinkite.com/post/85842528071/peter-todd-joins-coinkite-as-chief-naysayer">Coinkite "Chief Naysayer"</a>), inventor of
 <a href="https://letstalkbitcoin.com/ltb104-tree-chains-with-peter-todd/">Treechains</a>
+
+<br>
+
+> "Hivemind is a real project with interesting use cases. It's great to see them using sidechains - anyone with Bitcoin can participate in their markets."
+
+&#45; <a href="http://www.cypherspace.org/adam/"><strong>Dr. Adam Back</strong></a>, <a href="https://en.wikipedia.org/wiki/Cypherpunk#Noteworthy_cypherpunks">Notable Cypherpunk</a>, <a href="https://en.wikipedia.org/wiki/Proof-of-work_system#Background">inventor of Hashcash Proof-of-Work</a>, <a href="https://www.blockstream.com/team/">Blockstream</a> Co-Founder and President, ...
 
 <br>
 
