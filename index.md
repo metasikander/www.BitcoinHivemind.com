@@ -38,7 +38,7 @@ href="https://purse.io/">Purse.io</a>)
 
 > "Hivemind is a real project with interesting use cases. It's great to see them using sidechains - anyone with Bitcoin can participate in their markets."
 
-&#45; <a href="http://www.cypherspace.org/adam/"><strong>Dr. Adam Back</strong></a>, <a href="https://en.wikipedia.org/wiki/Cypherpunk#Noteworthy_cypherpunks">Notable Cypherpunk</a>, <a href="https://en.wikipedia.org/wiki/Proof-of-work_system#Background">inventor of Hashcash Proof-of-Work</a>, <a href="https://www.blockstream.com/team/">Blockstream</a> Co-Founder and President, ...
+&#45; <a href="http://www.cypherspace.org/adam/"><strong>Dr. Adam Back</strong></a>, <a href="https://en.wikipedia.org/wiki/Cypherpunk#Noteworthy_cypherpunks">Notable Cypherpunk</a>, <a href="https://en.wikipedia.org/wiki/Proof-of-work_system#Background">inventor of Hashcash Proof-of-Work</a>, <a href="https://www.blockstream.com/team/">Blockstream</a> Co-Founder and President
 
 <br>
 
