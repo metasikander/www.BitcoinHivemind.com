@@ -110,11 +110,12 @@ First, we add a new protocol rule, for valid messages:
 
     if share-tokens move (within a channel) {
         
-        // Ie, "cash" is allowed to move, without triggering this rule, but if shares are transfered from one private key to another, this rule is triggered.
 
-        1. Require a counter (Bitcoin's 'sequence numbers') to be aggregated.
+        1. Require a counter (Bitcoin's 'sequence numbers') to be incremented.
 
         // We will explain how this is enforced later.
+
+        // "Cash" is allowed to move, without triggering this rule.
 
     }
 
@@ -129,13 +130,15 @@ Let A and B be two individuals ("Alice" and "Bob") who have a channel together. 
 
 Let "F" be a funding transaction, and "T1", "T2", ... "Tn" be mutually-exclusive transactions coming out of F. Finally, let "A1", "A2", ... be the versions of "Ti" which are possessed only by Alice, and let "B1", "B2" be possessed only by Bob.
 
-Here are some examples (rightclick > "view", to enlarge):
+Here are some examples:
 
 ![example1](/images/example1.png)
 
 ![example2](/images/example2.png)
 
-Here is an application of this notation to the original lightning network (the simplified, "two person" version which applies most to us):
+Here is an application of this notation to the original lightning network (the simplified, "two person" version which applies most to us).
+
+Rightclick > "view", to enlarge:
 
 ![ln-1](/images/lightning-step1.png)
 
