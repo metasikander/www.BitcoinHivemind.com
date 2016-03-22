@@ -437,7 +437,7 @@ Augur *claims* to have raised about $5 million.
 
 However, crowdsales usually have 'ringers': rich guys who buy into the crowdsale to make it look good, and are later repaid (a kind of [fraudulent] off-book liability). That money "doesn't count", and the original Augur CEO did take an interest in this tactic, so I am sure that Augur employed it to some extent. It is just something that large IPOs do, even in the "real world" of Wall St.
 
-$5 million isn't really that much. Mastercoin raised $5 million, and it then rose in value to $120 million. It quickly crashed below-the-Dogecoin, and is presently circling the drain of its final destination of zero. Factom achieved an $11 million valuation, somehow, "21" raised $116 million. Look at pirateat40, or a whole host of other MLM schemes, televangelism, Bernie Madoff, US Social Security Trust Fund, etc. who all did way better than $5 million.
+$5 million isn't really that much. Mastercoin raised $5 million, and it then [rose in value to $132 million](http://finance.yahoo.com/news/backed-5-million-funding-4-160000183.html). It quickly crashed below-the-Dogecoin, and is presently circling the drain of its final destination of zero. Factom achieved an $11 million valuation, somehow, "21" raised $116 million. Look at pirateat40, or a whole host of other MLM schemes, televangelism, Bernie Madoff, US Social Security Trust Fund, etc. who all did way better than $5 million.
 
 
 #### B. Blow your money on whatever you want.
