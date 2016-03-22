@@ -102,6 +102,8 @@ Visit the [Builds Folder](http://107.170.174.203/Builds/) or [Build from Source]
 
 View the [most-recent roadmap].
 
+![screenshot](/images/screenshot-march-2016.png)
+
 ## Others
 
 Be sure to check [**the blog**](http://bitcoinhivemind.com/archive)!
