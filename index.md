@@ -100,7 +100,7 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 Visit the [Builds Folder](http://107.170.174.203/Builds/) or [Build from Source](https://github.com/bitcoin-hivemind/hivemind)
 
-View the [most-recent roadmap].
+View the [most-recent roadmap](http://bitcoinhivemind.com/blog/roadmap/).
 
 ![screenshot](/images/screenshot-march-2016.png)
 
