@@ -100,6 +100,16 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 Visit the [Builds Folder](http://107.170.174.203/Builds/) or [Build from Source](https://github.com/bitcoin-hivemind/hivemind)
 
+View the [most-recent roadmap].
+
+## Others
+
+Be sure to check [**the blog**](http://bitcoinhivemind.com/archive)!
+
+And, as always, the reference material of the sidebar: the [conversations / interviews](http://bitcoinhivemind.com/talk), the [FAQ](http://bitcoinhivemind.com/faq).
+
+Currently, [the forums](http://forum.truthcoin.info/) are not very popular.
+
 
 ## Contact
 
