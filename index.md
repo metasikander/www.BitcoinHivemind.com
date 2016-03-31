@@ -21,6 +21,8 @@ Click the one which describes you:
 
 <h2 id="endorsements"><a href="http://www.bitcoinhivemind.com/talk/">Endorsements</a></h2>
 
+
+
 * "Hivemind may be the most important invention since Bitcoin itself."
 
 &#45; <a href="https://rogerver.com/"><strong>Roger Ver</strong></a>, Bitcoin evangelist and seed investor (<a
@@ -28,7 +30,7 @@ href="https://blockchain.info/">Blockchain.info</a>, <a href="http://bitcoinfoun
 href="https://ripple.com/">Ripple</a>, <a href="https://bitpay.com/">BitPay</a>, <a href="https://shapeshift.io/">ShapeShift</a>, <a
 href="https://purse.io/">Purse.io</a>)
 
-<br>
+
 
 * "I'd give it a low <a href="http://bitcoinhivemind.com/blog/chance-of-success/">chance of success</a>, but at least it's clever crazy rather than stupid crazy. :)"
 
@@ -36,13 +38,13 @@ href="https://purse.io/">Purse.io</a>)
 (<a href="http://blog.coinkite.com/post/85842528071/peter-todd-joins-coinkite-as-chief-naysayer">Coinkite "Chief Naysayer"</a>), inventor of
 <a href="https://letstalkbitcoin.com/ltb104-tree-chains-with-peter-todd/">Treechains</a>
 
-<br>
+
 
 * "Hivemind is a real project with interesting use cases. It's great to see them using sidechains - anyone with Bitcoin can participate in their markets."
 
 &#45; <a href="http://www.cypherspace.org/adam/"><strong>Dr. Adam Back</strong></a>, <a href="https://en.wikipedia.org/wiki/Cypherpunk#Noteworthy_cypherpunks">Notable Cypherpunk</a>, <a href="https://en.wikipedia.org/wiki/Proof-of-work_system#Background">inventor of Hashcash Proof-of-Work</a>, <a href="https://www.blockstream.com/team/">Blockstream</a> Co-Founder and President
 
-<br>
+
 
 * "I'm very optimistic about the feasibility of this project."
 
@@ -117,10 +119,7 @@ Currently, [the forums](http://forum.truthcoin.info/) are not very popular.
 
 ## Contact
 
-Email: bitcoin.hivemind /at/gmail/
-Email: cryptaxe /at/gmail/
-
-PGP Key: [A1FDEFA4](https://pgp.mit.edu/pks/lookup?op=get&search=0xAE96A584A1FDEFA4)
+Email: bitcoin.hivemind /at/gmail/ (PGP: [A1FDEFA4](https://pgp.mit.edu/pks/lookup?op=get&search=0xAE96A584A1FDEFA4)), cryptaxe /at/gmail/ (PGP: [EA910EC9](https://pgp.mit.edu/pks/lookup?op=get&search=0x0DBD5388EA910EC9))
 
 Check out [the web's best Bitcoin blog](http://www.truthcoin.info/).
 
