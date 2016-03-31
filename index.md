@@ -21,7 +21,7 @@ Click the one which describes you:
 
 <h2 id="endorsements"><a href="http://www.bitcoinhivemind.com/talk/">Endorsements</a></h2>
 
-<br>
+<br style="line-height:0px;" />
 
 "Hivemind may be the most important invention since Bitcoin itself."
 
@@ -30,7 +30,7 @@ href="https://blockchain.info/">Blockchain.info</a>, <a href="http://bitcoinfoun
 href="https://ripple.com/">Ripple</a>, <a href="https://bitpay.com/">BitPay</a>, <a href="https://shapeshift.io/">ShapeShift</a>, <a
 href="https://purse.io/">Purse.io</a>)
 
-<br>
+<br style="line-height:0px;" />
 
 "I'd give it a low [chance of success](http://bitcoinhivemind.com/blog/chance-of-success/), but at least it's clever crazy rather than stupid crazy. :)"
 
@@ -38,13 +38,13 @@ href="https://purse.io/">Purse.io</a>)
 (<a href="http://blog.coinkite.com/post/85842528071/peter-todd-joins-coinkite-as-chief-naysayer">Coinkite "Chief Naysayer"</a>), inventor of
 <a href="https://letstalkbitcoin.com/ltb104-tree-chains-with-peter-todd/">Treechains</a>
 
-<br>
+<br style="line-height:0px;" />
 
 "Hivemind is a real project with interesting use cases. It's great to see them using sidechains - anyone with Bitcoin can participate in their markets."
 
 &#45; <a href="http://www.cypherspace.org/adam/"><strong>Dr. Adam Back</strong></a>, <a href="https://en.wikipedia.org/wiki/Cypherpunk#Noteworthy_cypherpunks">Notable Cypherpunk</a>, <a href="https://en.wikipedia.org/wiki/Proof-of-work_system#Background">inventor of Hashcash Proof-of-Work</a>, <a href="https://www.blockstream.com/team/">Blockstream</a> Co-Founder and President
 
-<br>
+<br style="line-height:0px;" />
 
 "I'm very optimistic about the feasibility of this project."
 
