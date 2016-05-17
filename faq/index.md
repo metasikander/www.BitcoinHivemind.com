@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 ---
 
 
-[Linkable/Pullable GitHub Version](https://github.com/BitcoinHivemind/www.bitcoinhivemind.com/blob/gh-pages/faq/index.md)
+[Linkable/Pullable GitHub Version](https://github.com/Bitcoin-Hivemind/www.bitcoinhivemind.com/blob/gh-pages/faq/index.md)
 
 Note: this FAQ is a **literal** FAQ. I did not write it to be an organized, readable document. The questions which are here, are here because they were asked very frequently. I copied each question here (so that it might be found with ctrl + f or a search engine) and wrote up a reference answer.
 
