@@ -332,8 +332,8 @@ Update: The long awaited [paper](http://users.encs.concordia.ca/~clark/papers/20
 ## Contact
 
 ### How do I contact you?
-Hivemind@gmail.com  
-https://twitter.com/Truthcoin  
+Bitcoin.Hivemind@gmail.com  
+https://twitter.com/BitcoinHivemind
 Please share your opinion, and your questions so the FAQ can grow!
 
 ### How on Earth do you pronounce "Sztorc"?
