@@ -141,7 +141,7 @@ So, in my view, each "successful" crowdsale pushes Bitcoin closer to oblivion.
 
 ### 3. Crowdsales Allow Unethical Behavior
 
-It is, in fact, [immoral to sell dreams](https://www.youtube.com/v/Zq4QCWrvRhI?start=3270&end=3310&version=3&autoplay=1).
+It is, in fact, [immoral to sell dreams](https://www.youtube.com/embed/Zq4QCWrvRhI?start=3270&end=3310&rel=0&autoplay=1).
 
 Why? Because humans have a "wishful thinking bias". This means that we are more likely to believe a false thing, if that false thing is a dream. Therefore, all dream-sellers have the *ability* to deceive ("steal money from") the credulous.
 
@@ -229,7 +229,7 @@ Software code needs to be maintained, like, over a long time. It's not like the 
 
 --rse there is alwa--- b-- tradeoff between operating and capital co---
 
-And yet, [these *future costs* are of the utmost importance](https://www.youtube.com/v/Zq4QCWrvRhI?start=3270&end=3310&version=3&autoplay=1) ... in fact, open source software is essentially *all* capital c-----no one knows how long, or how to go about the process of minimizin---
+And yet, [these *future costs* are of the utmost importance](https://www.youtube.com/embed/Zq4QCWrvRhI?start=3270&end=3310&rel=0&autoplay=1) ... in fact, open source software is essentially *all* capital c-----no one knows how long, or how to go about the process of minimizin---
 
 And yet, **why stay with the old project**, when you can just *crowdsale again* with the latest suckers! You can even use everything you learned from the last scam!
 
@@ -254,7 +254,7 @@ I present this (unrelated) sequential list of "smart contracting" platforms: Bit
 #### --dsale affects ---rduc--vity
 
 crowdsales.
-generate. skin in the game and [a LOYAL community](https://www.youtube.com/v/fIWKMgJs_Gs?start=280&end=350.8&version=3&autoplay=1). Will protect [their investment](https://www.youtube.com/v/-w6duQhWuVk?start=94&end=104.7&version=3&autoplay=1).
+generate. skin in the game and [a LOYAL community](https://www.youtube.com/embed/fIWKMgJs_Gs?start=280&end=350.8&rel=0&autoplay=1). Will protect [their investment](https://www.youtube.com/embed/-w6duQhWuVk?start=94&end=104.7&rel=0&autoplay=1).
 
 Feedback is the lifeblood of any------------------------------
 
@@ -264,9 +264,9 @@ Being a celebrity is, , a gigantic distraction and produces no engineering value
 \*gasp\* 
 
 I mean, why wou---jsuz if...
-....[Krawisz and Goldstein hodlings](https://www.youtube.com/v/slM9KJArqZc?start=1025&end=1263.2&version=3&autoplay=1)....
+....[Krawisz and Goldstein hodlings](https://www.youtube.com/embed/slM9KJArqZc?start=1025&end=1263.2&rel=0&autoplay=1)....
 
-Is [the community really *thi*](https://www.youtube.com/v/T6_30eKQeN8?start=205&end=243&version=3&autoplay=1) ..
+Is [the community really *thi*](https://www.youtube.com/embed/T6_30eKQeN8?start=205&end=243&rel=0&autoplay=1) ..
 
 \*gasp\*
 \*GASP\*
@@ -303,5 +303,5 @@ xf,  bb .3
 
 
 ....
-[incentives.](https://www.youtube.com/v/RIafZXRDH7w&start=410&end=468&version=3&autoplay=1)
+[incentives.](https://www.youtube.com/embed/RIafZXRDH7w?start=410&end=468&rel=0&autoplay=1)
 

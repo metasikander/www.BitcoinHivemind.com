@@ -52,18 +52,18 @@ And check out [the FAQ article](https://web.archive.org/web/20150214053334/http:
 
 It's interesting that that answer was whitewashed, *not* after I pointed out that it was wrong, but instead, months later, when I announced that I was going to support a much better implementation of the project.
 
-Not only is Augur an attempt at Truthcoin (alongside several other -more promising- attempts such as [Flying Fox](https://github.com/BumblebeeBat/FlyingFox)), but, in fact, when I met Joey Krug and Jack Peterson, they were soon-to-be unemployed, and ecstatic to have ["discovered" an amazing idea](https://www.youtube.com/v/Qvexa1pUzUA&version=3&autoplay=1&start=174&end=227) to pivot to. In order to justify taking Joe Costello's money, they tried unsuccessfully to hire me for all of 2014.
+Not only is Augur an attempt at Truthcoin (alongside several other -more promising- attempts such as [Flying Fox](https://github.com/BumblebeeBat/FlyingFox)), but, in fact, when I met Joey Krug and Jack Peterson, they were soon-to-be unemployed, and ecstatic to have ["discovered" an amazing idea](https://www.youtube.com/embed/Qvexa1pUzUA?rel=0&autoplay=1&start=174&end=227) to pivot to. In order to justify taking Joe Costello's money, they tried unsuccessfully to hire me for all of 2014.
 
 ![3](/images/augur-offers-02.png)
 
 ![4](/images/augur-beginning.png)
 
-[That video](https://www.youtube.com/v/Qvexa1pUzUA&version=3&autoplay=1&start=174&end=227) claims that I had no plans to build the software myself.
+[That video](https://www.youtube.com/embed/Qvexa1pUzUA?rel=0&autoplay=1&start=174&end=227) claims that I had no plans to build the software myself.
 
 I hadn’t, but -I soon realized- neither did the Augur team (which is why I refused to join them)! For I had laid out very important design-requirements for Truthcoin, which the Augur team abandoned whenever:
 
 1.	They did not understand them (more on that later), usually because they hadn’t bothered to ctrl+f the whitepaper.
-2.	Their financial backers, [namely Vitalik Buterin](https://www.youtube.com/v/Qvexa1pUzUA&version=3&autoplay=1&start=560&end=600), wanted them to.
+2.	Their financial backers, [namely Vitalik Buterin](https://www.youtube.com/embed/Qvexa1pUzUA?rel=0&autoplay=1&start=560&end=600), wanted them to.
 
 Of course, Truthcoin was an open proposal, so I "advised" them for free, taking hours out of my day to talk to them about the protocol’s requirements, despite the fact that I was already working full time (and they were being paid to work directly on this).
 
@@ -146,11 +146,11 @@ However, if Antonio Stradivari builds a violin (or Satoshi Nakamoto builds a pro
 
 Augur, despite [my endless protests](http://forum.hive-mind.info/index.php/topic,184.msg947.html#msg947), is built on Ethereum.
 
-Ethereum is a [running joke](https://www.youtube.com/v/U1XOPIqyP7A?start=163&end=356&version=3&autoplay=1) among Bitcoin experts. To [the clearminded](https://www.youtube.com/v/iKRH_zxpdjM?start=1485&end=1552&version=3&autoplay=1), it's [failure](http://coinmarketcap.com/currencies/ethereum/) as an "investment" was always [a foregone conclusion](https://bitbet.us/bet/1199/the-eth-scam-wont-see-2016/).
+Ethereum is a [running joke](https://www.youtube.com/embed/U1XOPIqyP7A?start=163&end=356&rel=0&autoplay=1) among Bitcoin experts. To [the clearminded](https://www.youtube.com/embed/iKRH_zxpdjM?start=1485&end=1552&rel=0&autoplay=1), it's [failure](http://coinmarketcap.com/currencies/ethereum/) as an "investment" was always [a foregone conclusion](https://bitbet.us/bet/1199/the-eth-scam-wont-see-2016/).
 
 Here are some bullet points in no particular order:
 
-A. Since transitioning from academic experiment to [full-blown](/images/eth-implications-03.png) [dishonest](https://www.youtube.com/v/eRDKP8nCVtU?start=2&end=9&version=3&autoplay=1) scam, Ethereum is laughed at at Bitcoin conferences.
+A. Since transitioning from academic experiment to [full-blown](/images/eth-implications-03.png) [dishonest](https://www.youtube.com/embed/eRDKP8nCVtU?start=2&end=9&rel=0&autoplay=1) scam, Ethereum is laughed at at Bitcoin conferences.
 
 B. For econo-math reasons, [Ethereum is incapable of supporting "oracle contracts"](http://www.truthcoin.info/blog/contracts-oracles-sidechains/) (of which Augur is one). tl;dr How can "Rep" have a market cap, if the operations performed by the "Rep"-holders can be perfectly copied, for free? Therefore, market cap (and, crucially, the betting security margin) will be prohibitively low.
 
@@ -212,7 +212,7 @@ Team-wise self-delusion is basically the business model for all Alt-coins, crowd
 
 You won't hear Factom (or whatever) come out and say anything bad about crowdsales, because *they themselves* do crowdsales. The result is that 100% of the Bitcoin 2.0 projects seen by the audience are pro-appcoin or pro-crowdsale, despite the fact that [insiders have known, for a long time, that such things are dumb](http://nakamotoinstitute.org/mempool/appcoins-are-snake-oil/).
 
-The final destination is [THIS](https://www.youtube.com/v/mLWhU3f0xlc?start=2948.1&end=2987.2&version=3&autoplay=1)! ...an entire panel of people who *have a business model* where they purposefully confuse bankers, so that they may land consulting jobs / investment deals.
+The final destination is [THIS](https://www.youtube.com/embed/mLWhU3f0xlc?start=2948.1&end=2987.2&rel=0&autoplay=1)! ...an entire panel of people who *have a business model* where they purposefully confuse bankers, so that they may land consulting jobs / investment deals.
 
 
 -->
@@ -238,7 +238,7 @@ Above: the original Augur whitepaper, written in mid-2014, when Augur was trying
 
 Augur used a crowdsale. [Crowdsales are horribly immoral and produce incentives which guarantee failure.](http://bitcoinhivemind.com/blog/crowdsales/)
 
-Just ask Bitcoin Superstar [Gavin Andresen](https://www.youtube.com/v/RIafZXRDH7w&start=410&end=468&version=3&autoplay=1), or ask [The Ethereum HexHouse Guy](https://www.youtube.com/v/T6_30eKQeN8?start=205&end=243&version=3&autoplay=1).
+Just ask Bitcoin Superstar [Gavin Andresen](https://www.youtube.com/embed/RIafZXRDH7w?start=410&end=468&rel=0&autoplay=1), or ask [The Ethereum HexHouse Guy](https://www.youtube.com/embed/T6_30eKQeN8?start=205&end=243&rel=0&autoplay=1).
 
 Ok, but even if they *did* have any idea what they're doing, there's still a huge case to be made against Augur.
 
@@ -283,7 +283,7 @@ Big V is certainly a smart guy and a big Truthcoin fan.
 
 ![Advisors](/images/vitalik-truthcoin.png)
 
-He was such a big fan that [he invested some of his own money in Augur](https://www.youtube.com/v/Qvexa1pUzUA&version=3&autoplay=1&start=560&end=600). What he lacked in "due diligence", he made up for in [synergy](https://www.youtube.com/watch?v=1qLtwCqTRI0&feature=youtu.be&t=586) by re-directing Augur into [his other project, Ethereum](https://www.youtube.com/v/PZcor5cIS-s?start=1208&end=1290&version=3&autoplay=1), so as to silence all of those people who wouldn't stop asking him inconvenient questions (like: "What is Ethereum useful for, exactly?").
+He was such a big fan that [he invested some of his own money in Augur](https://www.youtube.com/embed/Qvexa1pUzUA?rel=0&autoplay=1&start=560&end=600). What he lacked in "due diligence", he made up for in [synergy](https://www.youtube.com/watch?v=1qLtwCqTRI0&feature=youtu.be&t=586) by re-directing Augur into [his other project, Ethereum](https://www.youtube.com/embed/PZcor5cIS-s?start=1208&end=1290&rel=0&autoplay=1), so as to silence all of those people who wouldn't stop asking him inconvenient questions (like: "What is Ethereum useful for, exactly?").
 
 #### Dr. Hanson
 
@@ -468,7 +468,7 @@ Bo Shen is apparently the "CEO" of the Chinese version of i3, which created BitS
 
 However, Erik Voorhees is a bit of surprise. He (apparently) invested with Augur, out of (at the time) at least three better teams. Unlike other investors, I never got an email or message from him.
 
-Did Erik make a mistake? Was he intentionally trying to take money from gullible Ethereum investors? Maybe he's just too rich to care about [what he's doing](https://www.youtube.com/v/orQ0UJnw_eY?start=206&end=230&version=3&autoplay=1). Perhaps he just wanted to help "stimulate" the Bitcoin economy, and couldn't be bothered to examine the actual effect of his actions (something which, I am sure, he now has in common with the US Congress).
+Did Erik make a mistake? Was he intentionally trying to take money from gullible Ethereum investors? Maybe he's just too rich to care about [what he's doing](https://www.youtube.com/embed/orQ0UJnw_eY?start=206&end=230&rel=0&autoplay=1). Perhaps he just wanted to help "stimulate" the Bitcoin economy, and couldn't be bothered to examine the actual effect of his actions (something which, I am sure, he now has in common with the US Congress).
 
 Maybe Augur just lied to him. Who knows?
 
@@ -480,7 +480,7 @@ Certainly, it would be a little unsportsmanlike for multi-millionare Erik Voorhe
 
 ### The End of Open Source?
 
-As I mentioned in [the crowdsale essay](http://bitcoinhivemind.com/blog/crowdsales/): all software developers should be warned that working in Bitcoin, [an environment of money](https://www.youtube.com/v/RIafZXRDH7w&start=410&end=468&version=3&autoplay=1), will cause them to be thrust, against their will, into a toxic pseudo-corporate "scam or be scammed" political environment. I wouldn't exactly say that I "recommend" it, so make sure you know what you're getting yourself into.
+As I mentioned in [the crowdsale essay](http://bitcoinhivemind.com/blog/crowdsales/): all software developers should be warned that working in Bitcoin, [an environment of money](https://www.youtube.com/embed/RIafZXRDH7w?start=410&end=468&rel=0&autoplay=1), will cause them to be thrust, against their will, into a toxic pseudo-corporate "scam or be scammed" political environment. I wouldn't exactly say that I "recommend" it, so make sure you know what you're getting yourself into.
 
 
 ## Take-aways
