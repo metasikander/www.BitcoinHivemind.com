@@ -27,8 +27,8 @@ Almost everyone would describe "elections" as being "democratic". What else woul
 
 The Athenian Greeks, however, would disagree:
 
-"it is thought to be democratic for the offices to be assigned by lot, for them to be **elected is oligarchic**,"
--Aristotle, Politics 4.1294b
+    "it is thought to be democratic for the offices to be assigned by lot, for them to be **elected is oligarchic**,"
+    -Aristotle, Politics 4.1294b
 
 To Greeks, a "democracy" meant that, if someone had to do a job (ie, we needed someone to act as president), they would put everyone's name into a jar, pick out a name at random ("assigned by lot"), and make That Guy do it.
 
@@ -42,6 +42,9 @@ Why is "majority rule" efficient? Mainly, because the switching costs are minimi
 
 Because there's no violence involved, the populace is free to specialize in non-insurrectional, productive economic activity. Therefore, a country with quadrennial elections will tend to out-compete one which has quadrennial revolutions.
 
+![dc-prosperity](http://cdn.wallpapersafari.com/71/52/6t2ODn.jpg)
+
+
 ### Why Elections Suck
 
 #### The Hell is Going On?
@@ -50,14 +53,14 @@ Elections have some rather-overwhelming problems:
 
 First, we reliably elect [*unpopular* individuals](http://fivethirtyeight.com/features/americans-distaste-for-both-trump-and-clinton-is-record-breaking/).
 
-How does this happen? Voting is literally a popularity contest -- why are we often presented with two *unpopular* choices (and must then select [the "lesser of two evils"](http://link.springer.com/article/10.1007/s11109-011-9170-0))?
+How does this happen? Voting is literally a popularity contest -- how are we often presented with two *unpopular* choices (and must then select [the "lesser of two evils"](http://link.springer.com/article/10.1007/s11109-011-9170-0))?
 
 
-Secondly, the selection criteria appear to be quite bizarre. Elections favor those people with [1] name recognition, and [2] the [ability to navigate life without accruing embarassing photos](https://www.youtube.com/embed/VSilCzj5luE?start=449&end=490&autoplay=1&rel=0) [or soundbytes](https://www.youtube.com/embed/VSilCzj5luE?start=1605&end=1675&autoplay=1&rel=0). Of all candidates for office I can recall, I have never seen a resume, CV, transcript, test scores, ... even the 'recommendations' amount to a precious few platitudinous sentences -- mostly from vapid celebrities, always vague to the point of non-description.
+Secondly, the selection criteria appear to be quite bizarre. Elections favor those people with [1] name recognition, and [2] the [ability to navigate life without accruing embarassing photos](https://www.youtube.com/embed/VSilCzj5luE?start=449&end=490&autoplay=1&rel=0) [or soundbytes](https://www.youtube.com/embed/VSilCzj5luE?start=1605&end=1675&autoplay=1&rel=0). Of all candidates for office I can recall, I have never seen a resume, CV, transcript, or test scores. Even the 'recommendations' amount to a precious few platitudinous sentences -- mostly from vapid celebrities, always vague to the point of non-description.
 
 From our behavior, one would think we elect whoever is really good at ...*putting out signs*, or *kissing babies*?
 
-No one would hires this way. Certainly, not for a leadership role such as CEO, doctor, military general, univerisity professor, NFL quarterback.
+No one would hires this way. Certainly, not for a leadership role such as CEO, doctor, military general, univerisity professor, NFL quarterback, etc.
 
 
 Third, no one seems to care about the election results. Turnout is usually <50% (ie, the true 'winner' of the election is always 'nobody'), and when people do vote, the re-elect the incumbent **Q% of the time**! More absurdly, [most (77%) don't care enough even to learn even the **name** of *either one* of their senators](https://www.bostonglobe.com/magazine/2015/03/28/how-many-people-know-their-senators/yfgXyHR96X7YGhesaNQbnM/story.html). Most (64%) do not know [which party (of 2) is currently controlling *either* chamber of Congress](http://fusion.net/story/17398/most-americans-cant-name-which-parties-control-the-house-and-senate/).
@@ -100,6 +103,8 @@ So, why do voters concentrate their efforts on someone who "can win" (the so-cal
 Because, of course, any who do no use 'strategic voting' are in danger of 'throwing their vote away', via the phenomenon of ['vote splitting'](https://en.wikipedia.org/wiki/Vote_splitting). If a vote is currently (A=40%, B=60%), and [a near-copy of B](https://en.wikipedia.org/wiki/Spoiler_effect), B', is introduced as a third option, B's votes may be split amonst B and B', leading to (A=40%, B=30%, B'=30%) and A's victory.
 
 Hence, the 'unstrategic' B' voters "threw away" their vote. A vote for B' did precisely as well, as a vote "thrown away" into the trash.
+
+![wasted-vote](http://s2.quickmeme.com/img/72/72f172bb8f3ff86835b0075a98cf5e5e5159341d5330f0918c513142b217ed25.jpg)
 
 #### The Circle of Electability
 
