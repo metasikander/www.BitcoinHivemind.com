@@ -4,6 +4,7 @@ comments: true
 show_author: true
 ---
 
+> The two big ones are probably: [1] The prices are misinterpreted, as if they were poll numbers. [2] They shatter the layperson's cherished delusions of relevance, in a status-lowering way.
 
 Today is Election Day in the United States. One way or another, it will be a disaster.
 
