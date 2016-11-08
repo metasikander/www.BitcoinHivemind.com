@@ -1,6 +1,6 @@
 ---
 title: Truthcoin Renamed as Hivemind
-author: true
+show_author: true
 ---
 
 

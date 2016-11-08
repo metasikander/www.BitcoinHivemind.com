@@ -1,7 +1,7 @@
 ---
 title: A Lightning Network for Hivemind
 comments: true
-author: true
+show_author: true
 ---
 
 

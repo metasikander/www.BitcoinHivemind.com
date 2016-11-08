@@ -1,7 +1,7 @@
 ---
 title: Against Crowdsales
 comments: true
-author: true
+show_author: true
 ---
 
 > Do not crowdsale.
