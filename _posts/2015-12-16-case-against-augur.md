@@ -1,6 +1,7 @@
 ---
 title: The Case Against Augur
 comments: true
+author: true
 ---
 
 

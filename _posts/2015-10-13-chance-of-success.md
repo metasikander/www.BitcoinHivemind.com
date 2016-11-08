@@ -1,6 +1,7 @@
 ---
 title: Chance of Success - Bitcoin 2.0 Projects in Perspective
 comments: true
+author: true
 ---
 
 > In general, all Bitcoin 2.0 Projects are major longshots...Bitcoin 1.0 is the real innovation.
