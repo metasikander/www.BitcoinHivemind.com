@@ -135,7 +135,7 @@ Let us assume that the problems of #1 and #2 (above) are solved, using magic. Yo
 
 Let us also assume total non-influence: you have no idea how your friends plan to vote, no binding vote-commitments, no pre-votes, no campaigning (in fact, no talking at all). Votes will be cast with perfect privacy, and the answer will be revealed to all parties simultaneously.
 
-With all outside influences removed, and no other prsent, it seems we must have reached a situation of 'majority rule'. Right?
+With all outside influences removed, and no others present, it seems we must have reached a situation of 'majority rule'. Right?
 
 Wrong.
 
