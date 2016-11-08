@@ -142,7 +142,7 @@ Wrong.
 
 To send this system to it's doom, we merely retain one assumption: that 'the act of Voting' costs a tiny amount of private 'effort'.
 
-This cost is constant, but your 'benefit' (your voting influence) falls as N increases. By [my calculations](/images/voting.xlsx), your vote is likely to be meaningless at N=8. At N=20, each of the individual 21 votes matters not at all -- as if a bright red ballon were inflated with air to such a degree, that the stretched plastic suddenly vanished altogether.
+This cost is constant, but your 'benefit' (your voting influence) falls as N increases. By [my calculations](/images/voting.xlsx), your vote is likely to be meaningless at N=8. At N=40, each of the individual 41 votes matters not at all -- as if a bright red ballon were inflated with air to such a degree, that the stretched plastic suddenly vanished altogether.
 
 At this point, the [most rational voters will simply decline to participate](https://en.wikipedia.org/wiki/Rational_ignorance) (knowing that they will simply lose a kind of "Effort Prisoner's Dilemma"). We have therefore achieved, **through scale alone, a "rule of the irrational"**.
 
