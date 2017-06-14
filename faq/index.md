@@ -81,7 +81,7 @@ Perhaps Blockstream is evil, or biased (clearly, like everyone, they prefer thei
 
 From the Miner's point of view, their choice to secure Hivemind results in more tx-fees (BTC fees) for them, at a cost of zero (once configured, merge-mining has marginal operating cost of zero). It is a no-brainer.
 
-They are also unlikely to attack Hivemind, for reasons similar (but not identical) to those motivating their non-attack of Bitcoin: a failed attack results in the destruction of the pool operator's buisiness, and a successful attack destroys the future stream of tx-fees for all merged-miners.
+They are also unlikely to attack Hivemind, for reasons similar (but not identical) to those motivating their non-attack of Bitcoin: a failed attack results in the destruction of the pool operator's business, and a successful attack destroys the future stream of tx-fees for all merged-miners.
 
 ### How do you know that people won't claim an outcome was whatever will benefit them personally?
 
