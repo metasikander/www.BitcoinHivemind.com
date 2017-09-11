@@ -3,7 +3,7 @@ layout: page
 title: Open Source Knowledge 
 ---
 
-## Bitcoin "Smart Contracts" (As Smart As We Are)
+## What is Hivemind?
 
 Hivemind is a **Peer-to-Peer Oracle Protocol** which absorbs accurate data into a blockchain so that Bitcoin-users can speculate in
 **Prediction Markets**. These markets have [the potential](http://www.bitcoinhivemind.com/papers/3_PM_Applications.pdf) to revolutionize
@@ -18,6 +18,10 @@ Click the one which describes you:
 - [I've never heard of Bitcoin before and have no idea what's going on.](http://www.bitcoinhivemind.com/presentations/what-is-hivemind.pdf)
 - [I'm familiar with Bitcoin 2.0 projects.](http://bitcoinhivemind.com/faq/#what-makes-truthcoin-different)
 
+
+### WARNING: The "Hivemind ICO"
+
+Please disregard any message you may read about a "Hivemind ICO". These messages are all fabrications. These are written by fraudsters. Hivemind is in R&D stage, and this notice will be removed when that changes.
 
 <h2 id="endorsements"><a href="http://www.bitcoinhivemind.com/talk/">Endorsements</a></h2>
 
