@@ -21,6 +21,7 @@ The real-world problem Truthcoin aims to solve. This was the first half of a tal
 ## [The Oracle Problem](https://qconlondon.com/london-2017/system/files/presentation-slides/qcon_slides_-_paul_sztorc.pdf)
 
 Slides from my March 2017 talk at QCon. Covers the technical challenges of this project (and why other methods haven't worked).
+Update: [Video now availiable!](https://www.infoq.com/presentations/blockchain-oracle-problems)
 
 
 ## [Value of a VoteCoin](hivemind-valuable.pdf)
