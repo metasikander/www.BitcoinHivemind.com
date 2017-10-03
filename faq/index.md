@@ -85,7 +85,7 @@ They are also unlikely to attack Hivemind, for reasons similar (but not identica
 
 ### How do you know that people won't claim an outcome was whatever will benefit them personally?
 
-(It would be best to consult [the whitepaper](http://www.bitcoinhivemind.com/papers/hivemind-whitepaper.pdf) on this question, particularly the figures on pages 24-26 of Whitepaper 1.4).
+(It would be best to consult [the whitepaper](http://www.bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf) on this question, particularly the figures on pages 24-26 of Whitepaper 1.4).
 
 A parallel question would be, why wouldn't InTrade.com (a website which once provided USD prediction markets) simply steal their client's money? Why don't banks steal their client's money?
 
@@ -105,7 +105,7 @@ It is a common misconception that the SVD-resolution algorithm is the main innov
 #### The SVD-Resolution Algorithm
 
 
-Many of the details of this algorithm are in [this presentation](http://www.bitcoinhivemind.com/presentations/hivemind-outcomes.pdf) and [the whitepaper](http://www.bitcoinhivemind.com/papers/hivemind-whitepaper.pdf).
+Many of the details of this algorithm are in [this presentation](http://www.bitcoinhivemind.com/presentations/hivemind-outcomes.pdf) and [the whitepaper](http://www.bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf).
 
 Try and break my [Resolution Demo](https://lyoshenka.ocpu.io/truthcoindemo/www/), and let me know what you find!
 
