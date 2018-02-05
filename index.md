@@ -99,6 +99,10 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 ## [Presentations](/presentations/)
 
+A good recent overview of the "why" of this project:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbj8x9yYb5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 - <a href="/presentations/what-is-hivemind.pdf">What is Hivemind?</a>
 - <a href="/presentations/hivemind-outcomes.pdf">Outcome Resolution</a>
 - <a href="/presentations/info-problems.pdf">Ending the Age of Bullshit</a>
