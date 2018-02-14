@@ -23,6 +23,13 @@ Click the one which describes you:
 
 Please disregard any message you may read about a "Hivemind ICO". These messages are all fabrications. These are written by fraudsters. Hivemind is in R&D stage, and this notice will be removed when that changes.
 
+### TABconf Jan 2018
+
+The "why" of this project:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzaVt7uN4p4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 <h2 id="endorsements"><a href="http://www.bitcoinhivemind.com/talk/">Endorsements</a></h2>
 
 <br style="line-height:0px;" />
@@ -98,10 +105,6 @@ However, unlike other blockchain-projects, the ultimate purpose is <b>NOT to est
 
 
 ## [Presentations](/presentations/)
-
-A good recent overview of the "why" of this project:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tzaVt7uN4p4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - <a href="/presentations/what-is-hivemind.pdf">What is Hivemind?</a>
 - <a href="/presentations/hivemind-outcomes.pdf">Outcome Resolution</a>
