@@ -18,10 +18,11 @@ Everyone asks: How are the outcomes calculated? "Who decides?" Here are some of 
 
 The real-world problem Truthcoin aims to solve. This was the first half of a talk I gave at the MIT Bitcoin club in January 2015.
 
-## [The Oracle Problem](https://qconlondon.com/london-2017/system/files/presentation-slides/qcon_slides_-_paul_sztorc.pdf)
+Update: a [video](https://www.youtube.com/watch?v=tzaVt7uN4p4) of an [even better presentation](hm-why.pdf) at TAB Conf Jan 2018.
+
+## [The Oracle Problem](https://www.slideshare.net/InfoQ/blockchain-the-oracle-problems)
 
 Slides from my March 2017 talk at QCon. Covers the technical challenges of this project (and why other methods haven't worked).
-Update: [Video now availiable!](https://www.infoq.com/presentations/blockchain-oracle-problems)
 
 
 ## [Value of a VoteCoin](hivemind-valuable.pdf)
