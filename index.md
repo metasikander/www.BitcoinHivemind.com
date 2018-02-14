@@ -25,7 +25,7 @@ Please disregard any message you may read about a "Hivemind ICO". These messages
 
 ### TABconf Jan 2018
 
-The "why" of this project:
+The "why" of this project ([slides here](http://bitcoinhivemind.com/presentations/hm-why.pdf)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzaVt7uN4p4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
