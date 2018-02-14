@@ -136,4 +136,4 @@ Email: bitcoin.hivemind /at/gmail/ (PGP: [A1FDEFA4](https://pgp.mit.edu/pks/look
 
 Check out [the web's best Bitcoin blog](http://www.truthcoin.info/).
 
-I attempt to respond immediately to all [Twitter](https://twitter.com/BitcoinHivemind) inquiries.
+My [Twitter](https://twitter.com/BitcoinHivemind) Office Hours are 8-9 AM, 5-6 PM, and while riding in elevators.
