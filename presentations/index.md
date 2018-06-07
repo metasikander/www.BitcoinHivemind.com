@@ -22,7 +22,7 @@ Update: a [video](https://www.youtube.com/watch?v=tzaVt7uN4p4) of an [even bette
 
 ## [The Oracle Problem](https://www.slideshare.net/InfoQ/blockchain-the-oracle-problems)
 
-Slides from my March 2017 talk at QCon. Covers the technical challenges of this project (and why other methods haven't worked).
+Slides from [my March 2017 talk at QCon](https://www.infoq.com/presentations/blockchain-oracle-problems). Covers the technical challenges of this project (and why other methods haven't worked).
 
 
 ## [Value of a VoteCoin](hivemind-valuable.pdf)
