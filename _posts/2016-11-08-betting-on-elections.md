@@ -1,10 +1,10 @@
 ---
-title: Why Election Betting is Especially Unpopular
+title: Hostility Toward Election Betting
 comments: true
 show_author: true
 ---
 
-> The two big ones are probably: [1] The prices are misinterpreted, as if they were poll numbers. [2] They (rudely) shatter the layperson's cherished delusions of relevance.
+> "Electability" is crucial to winning an election (this is democracy's biggest flaw). Election-Betting upsets people because [1] the odds are often misinterpreted, as if they were poll numbers (assaulting many of the candidate's electability). And [2] They (rudely) shatter the layperson's cherished delusions of relevance.
 
 Today is Election Day in the United States. One way or another, it will be a disaster.
 
