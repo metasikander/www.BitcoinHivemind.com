@@ -42,3 +42,19 @@ Who is getting the first Truthcoins? Hint: probably, you!
 ## [In Six Slides](six-slide-sprint.pdf)
 
 The original [BoostVC formatted](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d) 6 slide pitch deck...this  presentation relied (dangerously) on a lot of in-person context ("humor"), which is probably lost on the random internet viewer. (Truthcoin did get funding, however).
+
+## TABConf -- Jan 2018
+
+The "why" of this project, 50 mins.
+
+[Video](https://www.youtube.com/watch?v=tzaVt7uN4p4)
+[Slides](http://bitcoinhivemind.com/presentations/hm-why.pdf)
+
+
+## Anarchapulco -- Feb 2019
+
+An excellent modern update of the project, 20 mins.
+
+[Slides](http://bitcoinhivemind.com/presentations/anarchapulco-2019.pdf)
+[Transcript](http://bitcoinhivemind.com/presentations/anarchapulco-2019-speech.pdf)
+

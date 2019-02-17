@@ -23,6 +23,11 @@ Click the one which describes you:
 
 Please disregard any message you may read about a "Hivemind ICO". These messages are all fabrications. These are written by fraudsters. Hivemind is in R&D stage, and this notice will be removed when that changes.
 
+### Anarchapulco 2019
+
+See the [slides](http://bitcoinhivemind.com/presentations/anarchapulco-2019.pdf) and [transcript](http://bitcoinhivemind.com/presentations/anarchapulco-2019-speech.pdf) of my 20 minute talk, delivered at Anarchapulco 2019. This presentation tries to quickly cover the most important material.
+
+
 ### TABconf Jan 2018
 
 The "why" of this project ([slides here](http://bitcoinhivemind.com/presentations/hm-why.pdf)):
