@@ -41,7 +41,7 @@ The "why" of this project ([slides here](http://bitcoinhivemind.com/presentation
 
 "Hivemind may be the most important invention since Bitcoin itself."
 
-&#45; <a href="https://rogerver.com/"><strong>Roger Ver</strong></a> (<a href="https://bravenewcoin.com/insights/the-era-of-prediction-markets-is-at-hand">June 2015</a>), Bitcoin evangelist and seed investor (<a href="https://blockchain.info/">Blockchain.info</a>, <a href="http://bitcoinfoundation.org/">The Bitcoin Foundation</a>, <a
+&#45; <a href="https://rogerver.com/"><strong>Roger Ver</strong></a> (<a href="https://bravenewcoin.com/insights/the-era-of-prediction-markets-is-at-hand">Jun 2015</a>), Bitcoin evangelist and seed investor (<a href="https://blockchain.info/">Blockchain.info</a>, <a href="http://bitcoinfoundation.org/">The Bitcoin Foundation</a>, <a
 href="https://ripple.com/">Ripple</a>, <a href="https://bitpay.com/">BitPay</a>, <a href="https://shapeshift.io/">ShapeShift</a>, <a
 href="https://purse.io/">Purse.io</a>)
 
