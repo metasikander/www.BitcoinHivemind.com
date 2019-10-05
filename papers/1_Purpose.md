@@ -165,7 +165,7 @@ Sadly, the world has only partly-changed. Most people still “take someone’s 
 
 Another problem is that we often take our own “word” for things, when we shouldn’t. Modern social psychology reveals that man can [be](http://en.wikipedia.org/wiki/Introspection_illusion) [very](http://www.overcomingbias.com/2010/03/homo-hipocritus.html) [hypocritical](ftp://ftp.gate.cnrs.fr/RePEc/2012/1216.pdf). Evolution produced [a creature designed](http://en.wikipedia.org/wiki/List_of_cognitive_biases) to [survive-first, think-later](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), and to behave and talk accordingly. Optical illusions, for example, help our eyes quickly process information that is nonetheless incorrect.
 
-![Merlin's Arrows](../images/merlins_arrows.jpeg)
+![Merlin's Arrows](../images/papers/1_Purpose/merlins_arrows.jpeg)
 Figure 2. A classic optical illusion. Surprisingly, both horizontals are the same length. More importantly, **even after you verify this equality, you will continue to perceive the figure “wrongly”**. Self-awareness, if achieved, must be constantly maintained...we must always be skeptical of our beliefs.
 
 When everyone pretends to know more than they do (to seem impressive or valuable) it can be hard for a first-mover to admit ignorance honestly. Unfortunately, this means that the informed people leave the conversation in frustration, while the oblivious brashly take center stage. Politicians do not need to obscure the truth, if citizens lose the original among a thousand imperfect copies.
