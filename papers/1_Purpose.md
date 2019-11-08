@@ -1,7 +1,7 @@
 # Market Empiricism
-Paul Sztorc  
+*Paul Sztorc  
 truthcoin@gmail.com  
-Version 1.3  
+Version 1.3*
 
 ## Our Common Enemy
 
