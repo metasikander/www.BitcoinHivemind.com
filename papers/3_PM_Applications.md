@@ -12,7 +12,7 @@ Prediction markets can put an end to public confusion on any issue where the evi
 
 **“The United States Surgeon General to issue an official statement, linking tobacco cigarette use to lung cancer and chronic bronchitis, on or before Jan 1st, 1966?”**
 
-This statement turned out to be true.[^1] Although common knowledge today, this information was very surprising at the time, which implies that a prediction of such an announcement would have been controversial and suspicious. Note the arbitrarily chosen maturity date (1965) and source (US Surgeon General). Those who disagree with the suggested date or source could Author a different Market to their liking (to the benefit of us all).
+This statement turned out to be true[^1]. Although common knowledge today, this information was very surprising at the time, which implies that a prediction of such an announcement would have been controversial and suspicious. Note the arbitrarily chosen maturity date (1965) and source (US Surgeon General). Those who disagree with the suggested date or source could Author a different Market to their liking (to the benefit of us all).
 
 “2015-2020 to contain at least two of the warmest years on record, as measured by GISTEMP at [http://data.giss.nasa.gov](http://data.giss.nasa.gov), dtS Global table, column J-D?”
 
