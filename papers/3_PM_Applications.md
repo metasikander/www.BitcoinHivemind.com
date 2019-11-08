@@ -1,6 +1,6 @@
 # Extra-Predictive Applications of Prediction Markets
-*Paul Sztorc
-truthcoin@gmail.com 
+*Paul Sztorc  
+truthcoin@gmail.com  
 Version 1.4*
 
 ## Summary
@@ -185,24 +185,24 @@ TODO: Add image from page 16
 
 The Decision text can be literal software code, on (for example) a ‘Python Branch’, resolved automatically by users’ computers (which can connect to the blockchain and read/execute the Decision’s python code). Decision code can be as complex or modular as desired (VTC-owners of this Branch could be required to run supercomputers, for example). Each ‘Smart Contract’ would be publically available to everyone for the duration of its existence, with Market and Decision Authors collecting fees proportional to Market popularity.
 
-[^1]: [http://www.cdc.gov/tobacco/Data_statistics/sgr/history/index.htm](http://www.cdc.gov/tobacco/Data_statistics/sgr/history/index.htm)
-[^2]: [http://www.theguardian.com/media/greenslade/2014/jan/28/lance-armstrong-sundaytimes](http://www.theguardian.com/media/greenslade/2014/jan/28/lance-armstrong-sundaytimes)
-[^3]:  For the details on how and why this works, see my [https://github.com/psztorc/Truthcoin/raw/master/docs/2_PM_Types.pdf]( document covering combinatorial markets.)
-[^4]: [http://hanson.gmu.edu/futarchy.html](http://hanson.gmu.edu/futarchy.html)
-[^5]:  Unfortunately, corporations which undergo restructuring (mergers, acquisitions, demergers, etc.) are likely to have prohibitively inconsistent valuation-metrics. If you have a solution to this problem, please contact me.
-[^6]: [http://en.wikipedia.org/wiki/Replicating_portfolio](http://en.wikipedia.org/wiki/Replicating_portfolio)
-[^7]:  When you buy, the most you can lose is 100%; when you short, your potential losses are theoretically infinite.
-[^8]: log(68)/log(2) = 6.087
-[^9]:  There are many cases where the minority view (or, “less promoted view”) may be most justified. For example, the 2015 Blocksize Debate seemed (pre-Montreal Conference) merely to reflect the ratio of BigBlock-Users (those tending to pay transaction fees, but not to run a full node), to SmallBlock-Users (those tending to run a full nodes, but not to pay transaction fees). Although the BigBlock-ers outnumbered SmallBlock-ers, the SmallBlock-ers ended up having overwhelmingly superior technical justification.
-[^10]: TODO: add pictures/formulas /TODO  While {1} and {3} are purchased in equal quantities, they must be accompanied by a quantity of {4} which varies to induce the appropriate degree of leverage. This amount  is defined completely by the current market prices:   , where  . Quantity  initially equals perfect-refund quantity  , but the quantities diverge as  and  separate (as the market prices in differences between each scenario’s expected future exchange rate.
-[^11]: This unit (1 USD, 1 EUR, 1 BTC, etc) doesn’t matter, only the percentage return on it matters.
-[^12]: This relies on division, and fails if the exchange rate falls to the value of zero (or if it travels out of range).
-[^13]: In fact, one could (objectively) compare any metric. However, the USD exchange rate is overwhelmingly likely to be the most helpful metric to use, as one is ultimately limited to optimizing one goal at a time, and the exchange rate is itself a metric which optimally combines many sub-metrics.
-[^14]: One of the most threatening/time-consuming aspects of a hard fork is uncertainty surrounding the question “How seriously is this fork being considered?”.
-[^15]: My strong expectation is that the difference in price would be huge—in fact I expect all non-preferred forks to have futures which trade at a near-zero exchange rate.
-[^16]: More details are available at my [http://www.truthcoin.info/blog/win-win-blocksize/](blog post on the topic.)
-[^17]:  Very frequently, one encounters comments (informed or otherwise) such as “the blockchain technology is nice, but [http://www.amazon.com/BitCon-Naked-Truth-About-Bitcoin-ebook/dp/B00NUIUQ3A]("Bitcoin the currency is a con”), or [http://www.pfhub.com/u-s-investment-banker-james-rickards-says-tie-bitcoin-gold-avoid-volatility-580/](“Why not tie it to gold?”)
-[^18]: It is both logical and desirable (at least at first) for BitUSD to be consistently cheaper than actual US Dollars. This would be due to the multitude of risks associated with newer, unsecured, non-legal BitUSD, low-merchant-acceptance and grants an excess return to those bearing these risks (all BitUSD holders).
-[^19]: [https://en.bitcoin.it/wiki/Contracts#Example_3:_Assurance_contracts](https://en.bitcoin.it/wiki/Contracts#Example_3:_Assurance_contracts)
-[^20]: Note that speculators cannot sell, but they can purchase the set of mutually exclusive states, which has the same effect on prices.
+[^1]: [http://www.cdc.gov/tobacco/Data_statistics/sgr/history/index.htm](http://www.cdc.gov/tobacco/Data_statistics/sgr/history/index.htm)  
+[^2]: [http://www.theguardian.com/media/greenslade/2014/jan/28/lance-armstrong-sundaytimes](http://www.theguardian.com/media/greenslade/2014/jan/28/lance-armstrong-sundaytimes)  
+[^3]:  For the details on how and why this works, see my [https://github.com/psztorc/Truthcoin/raw/master/docs/2_PM_Types.pdf]( document covering combinatorial markets.)  
+[^4]: [http://hanson.gmu.edu/futarchy.html](http://hanson.gmu.edu/futarchy.html)  
+[^5]:  Unfortunately, corporations which undergo restructuring (mergers, acquisitions, demergers, etc.) are likely to have prohibitively inconsistent valuation-metrics. If you have a solution to this problem, please contact me.  
+[^6]: [http://en.wikipedia.org/wiki/Replicating_portfolio](http://en.wikipedia.org/wiki/Replicating_portfolio)  
+[^7]:  When you buy, the most you can lose is 100%; when you short, your potential losses are theoretically infinite.  
+[^8]: log(68)/log(2) = 6.087  
+[^9]:  There are many cases where the minority view (or, “less promoted view”) may be most justified. For example, the 2015 Blocksize Debate seemed (pre-Montreal Conference) merely to reflect the ratio of BigBlock-Users (those tending to pay transaction fees, but not to run a full node), to SmallBlock-Users (those tending to run a full nodes, but not to pay transaction fees). Although the BigBlock-ers outnumbered SmallBlock-ers, the SmallBlock-ers ended up having overwhelmingly superior technical justification.  
+[^10]: TODO: add pictures/formulas /TODO  While {1} and {3} are purchased in equal quantities, they must be accompanied by a quantity of {4} which varies to induce the appropriate degree of leverage. This amount  is defined completely by the current market prices:   , where  . Quantity  initially equals perfect-refund quantity  , but the quantities diverge as  and  separate (as the market prices in differences between each scenario’s expected future exchange rate.  
+[^11]: This unit (1 USD, 1 EUR, 1 BTC, etc) doesn’t matter, only the percentage return on it matters.  
+[^12]: This relies on division, and fails if the exchange rate falls to the value of zero (or if it travels out of range).  
+[^13]: In fact, one could (objectively) compare any metric. However, the USD exchange rate is overwhelmingly likely to be the most helpful metric to use, as one is ultimately limited to optimizing one goal at a time, and the exchange rate is itself a metric which optimally combines many sub-metrics.  
+[^14]: One of the most threatening/time-consuming aspects of a hard fork is uncertainty surrounding the question “How seriously is this fork being considered?”.  
+[^15]: My strong expectation is that the difference in price would be huge—in fact I expect all non-preferred forks to have futures which trade at a near-zero exchange rate.  
+[^16]: More details are available at my [http://www.truthcoin.info/blog/win-win-blocksize/](blog post on the topic.)  
+[^17]:  Very frequently, one encounters comments (informed or otherwise) such as “the blockchain technology is nice, but [http://www.amazon.com/BitCon-Naked-Truth-About-Bitcoin-ebook/dp/B00NUIUQ3A]("Bitcoin the currency is a con”), or [http://www.pfhub.com/u-s-investment-banker-james-rickards-says-tie-bitcoin-gold-avoid-volatility-580/](“Why not tie it to gold?”)  
+[^18]: It is both logical and desirable (at least at first) for BitUSD to be consistently cheaper than actual US Dollars. This would be due to the multitude of risks associated with newer, unsecured, non-legal BitUSD, low-merchant-acceptance and grants an excess return to those bearing these risks (all BitUSD holders).  
+[^19]: [https://en.bitcoin.it/wiki/Contracts#Example_3:_Assurance_contracts](https://en.bitcoin.it/wiki/Contracts#Example_3:_Assurance_contracts)  
+[^20]: Note that speculators cannot sell, but they can purchase the set of mutually exclusive states, which has the same effect on prices.  
 
