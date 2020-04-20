@@ -70,15 +70,75 @@ PLEASE send Typos/Confusions to [truthcoin@gmail.com](mailto:truthcoin@gmail.com
 ## Article II. How it Works
 ### (a) Truthcoin Blockchain and Coin Types
 #### 1)
-The Truthcoin blockchain is a Bitcoin-inspired proof-of-work blockchain which aims to impose different block validation rules on the original Satoshian cryptosystem. While the Bitcoin blockchain is designed only to hold information about the ownership and transfer of a single coin-type, the Truthcoin blockchain is designed to contain information about the transfer of three coin-types (CashCoins, VoteCoins, and Shares 11 ), as well as the existence and state of Prediction Markets.
+The Truthcoin blockchain is a Bitcoin-inspired proof-of-work blockchain which aims to impose different block validation rules on the original Satoshian cryptosystem. While the Bitcoin blockchain is designed only to hold information about the ownership and transfer of a single coin-type, the Truthcoin blockchain is designed to contain information about the transfer of three coin-types (CashCoins, VoteCoins, and Shares [^11] ), as well as the existence and state of Prediction Markets.
 
 #### 2)
 The Truthcoin blockchain contains a new type of coin called a “VoteCoin”:  
-| CashCoins (“Bitcoin”)User-Layer  |   |   |   |   |
-|---|:---:|:---:|:---:|---:|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   | CashCoins (“Bitcoin”) User-Layer | VoteCoins (“Reputation”) Employee-Layer |
+|:-:|:-:|:-:|
+| 1 | Coin values are analogous to a saved quantity of gold. | Coin values are analogous to reputation, influence, or shares of a corporation. |
+| 2 | Without user input, account balances do not change. | Accounts may either gain or lose unspent coins (based on voting activity). With no user input, coin balances would decrease. |
+| 3 | Private keys sign messages that [1] transfer value, [2] create prediction markets, and [3] trade in those markets. | Private keys only sign Votes (which influence the Outcomes of Decisions) or messages which transfer VoteCoins. |
+| 4 | To mimic the experience of gold and provide an objective initial distribution of coins, new coins are periodically introduced in each block by miners, asymptotically approaching 21 million total coins.[^12] |
+| 5 | Expectation of huge number of addresses, one per value transaction. | Expectation of a maximum of 10,000 addresses, all of which will vote, but few of which will transact. |
+
+### (b) (Decentralized, Incentive-Compatible) Calculation of Decision Outcomes
+#### (i) Terminology
+##### 1)
+**CashCoins** – A cryptocurrency which is functionally equivalent to Bitcoin, yet with the ability to interface with Truthcoin prediction markets.  
+
+TODO: image from page 7  
+
+Figure 1. Graphical representation of Truthcoin’s structure. Notice the two types of coin (circles), the VoteCoins representing reputation (top, colored) and the CashCoins representing money (bottom, grey). Decisions can either be Binary (bordered) or Scaled (blurred). When used in Markets, Scaled Decisions span an entire dimension, whereas Binaries only partition-from-null.  
+
+##### 2)
+**Decisions** – Questions that must be resolved by Voters. These partition the State-space of a prediction market, and are defined by items such as ‘event text’, ‘event date’, ‘tags’, ‘author’, etc. (see Appendix IX).  
+
+###### a) Truthcoin supports two ‘types’ of Decision:
+####### i) Binary (Boolean) Decisions: TODO: Add mathematics
+######## a. Example 1: “Will Hillary Clinton be elected US President in 2016?”
+######## b. Example 2: “Will the NYSE:DJIA closing price ever rise above 20,000 USD/Share in 2017?”
+####### ii) Scaled (Scalar) Decisions: TODO: add mathematics
+######## a. Example 1: “How many Electoral College votes will Hillary Clinton receive in the 2016 US Presidential election (if Hillary does not run, select ‘zero’)?” TODO: add mathematics
+######## b. Example 2: “What will the NYSE:DJIA closing price be on January 1 st , 2018 (USD/Share)?” TODO: add mathematics
+######## c. must be set in advance. Having a Decision expire at or near a bound has slightly adverse economic consequences for the Author of any Market using this Decision. TODO: add mathematics
+###### b)  State “.5” denotes that a Decision is excessively confusing/irresolvable/unobservable (its veracity cannot easily be measured). This has adverse economic consequences for the Decision’s Author.
+###### c) At any given time, each Decision will have a ‘status’ of one of the following:
+####### i) Active: The Decision has just been created. Decisions of the ‘active’ status would be likely to be used to create Markets, and those Markets would be actively traded.
+####### ii) Matured: Decisions contain a ‘date by which the information will become available’. After this date has passed, the Decision has a status of ‘matured’, and will enter the next Vote Matrix and be Voted on for resolution.
+####### iii) Disputed: If Voters cannot sufficiently agree on the Decision’s outcome, the Decision remains un-resolved and gains this status. From here it will be Audited.
+####### iv) Vetoed: If Miners veto the Decision’s Ballot, it gains this status (regardless of Voterbehavior).
+####### v) Resolved: If Voters do sufficiently agree on the Decision’s outcome, and the Ballot is not Vetoed, their agreed-upon value becomes the final value of the Decision, and the Decision’s life-cycle is now over.
+##### 3)
+**Markets** – The lifeblood of the Truthcoin project, Prediction Markets allow anyone with CashCoin to buy and sell shares representing states of the world, and thereby speculate on and profit from selected events. This voluntary “win-win” speculation aggregates and summarizes information for use by the public.  
+
+###### a) States: Markets partition the world into ‘states’ or “mutually-exclusive possible descriptions of reality”. When traders buy and sell shares, these shares are of a single Market State.
+###### b) Status: Markets exist in one of two statuses:
+####### i) Trading: In this status, a Market allows traders to buy and sell shares through an automated market-maker. A Market would be in this status from the moment it is created until all of its Decisions are voted on.
+####### ii) Closed: When all of the Market’s Decisions are successfully resolved, the Market can be “closed” with a special message, which disables buying and replaces selling with redeeming.
+TODO: add image on page 9
+
+Figure 2. Graphical representation of three Prediction Markets, each with Binary Decisions. Left, the simplest form popularized by InTrade, with one dimension (blue dashed arrow), one Decision (red circle), and two states (yellow squares). Center, a Market with not two but four mutually exclusive states (for example, the winner of a 4-team tournament) and three Decisions. Right, a prediction market with two dimensions. Multidimensional prediction markets [^13] allow users to trade not only on the probability of each state, but also the relationship between dimensions [^14] , such as the relationship between an election result and the achievement of an economic goal a year later[^15].
+
+##### 4)
+**Branches** – Although all Markets are globally available to all users, Decisions are partitioned into clusters called ‘Branches’ based primarily on topic. Each Branch has its own set of VoteCoins (and therefore Voters), its own Decisions, and its own parameters (see Appendix IX).  
+
+##### 5)
+**VoteCoins** – The second cryptocurrency type in Truthcoin. Unlike CashCoins, VoteCoins are a liability as well as an asset. Owners are expected to use their coins to vote honestly on the Outcome of each Decision (or lose them).  
+
+##### 6)
+**Intervote Period (“Tau”)** – The length of time between two consecutive votes on the same Branch.  
+
+##### 7)
+**Vote** – The value which a Voter believes would match a given Decision to its real-world Outcome. The default value is “Missing”, which indicates “No response from the Voter”. A value of “1” would indicate “TRUE”, “0” would indicate “FALSE”, and “.5” would indicate “I can’t easily tell” or “breaks the Branch rules”).  
+
+##### 8)
+**Ballot** – The set of all matured Decisions on a Branch. For each Decision in a Ballot, every Voter must cast a Vote with his report/opinion on the resolved value. Notice that Ballots are defined by the maturation time of their Decisions, not by their organization or use within Markets (and, crucial to the core design, Ballots contain the Decisions of many different Markets).
+
+##### 9)
+**Vote Matrix** – The matrix created by stacking the Ballots (of a particular voting cycle) by -row. The columns of the matrix correspond to Decisions.
+
+CONT! PAGE 10  
 
 [^1]: Dedicated to Robin Hanson, for [taking the high road.](http://www.overcomingbias.com/2013/05/high-road-doubts.html)  
 [^2]: [https://www.lme.com/trading/warehousing-and-brands/warehousing/approved-warehouses/](https://www.lme.com/trading/warehousing-and-brands/warehousing/approved-warehouses/)  
@@ -90,3 +150,8 @@ The Truthcoin blockchain contains a new type of coin called a “VoteCoin”:
 [^8]: Original Publication: [http://mason.gmu.edu/~rhanson/mktscore.pdf](http://mason.gmu.edu/~rhanson/mktscore.pdf)  
 [^9]: Clarifying Excel Spreadsheet: [http://www.truthcoin.info/papers/LogMSR_Demo.xlsx](http://www.truthcoin.info/papers/LogMSR_Demo.xlsx)  
 [^10]: [https://github.com/psztorc/Truthcoin](https://github.com/psztorc/Truthcoin)  
+[^11]: That which is “worth $1 if Candidate X is elected”, (the Arrow–Debreu securities themselves).
+[^12]: I refer, of course, to the origin of these sidechained CashCoins: the Bitcoin Blockchain.  
+[^13]: [http://www.truthcoin.info/papers/2_PM_Types.pdf](http://www.truthcoin.info/papers/2_PM_Types.pdf)  
+[^14]: [http://www.overcomingbias.com/2008/07/intrades-condit.html](http://www.overcomingbias.com/2008/07/intrades-condit.html)  
+[^15]: [http://www.overcomingbias.com/2008/01/presidential-de.html](http://www.overcomingbias.com/2008/01/presidential-de.html)  
